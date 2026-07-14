@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "rule": "verified only, event-deduped, sorted by mislead_score desc, 5-7 per section; no content/content_summary fields",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 5-10 per section; no content/content_summary fields",
   "items": {
     "social": [
       {
@@ -93,6 +93,45 @@
         "unverified": false,
         "X": "음주운전 사망사고 재범 가해자에게 징역 4년만 선고돼 유족이 반발한 사건으로 보인다.",
         "Y": "법원은 음주운전으로 70대 여성을 숨지게 한 재범 운전자에게 징역 4년을 선고했고 유족은 양형에 반발했다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "사회",
+        "title": "지붕 찜통, 바다 열탕... 폭염 에 목숨 잃는 야생동물들",
+        "domain": "newspenguin.com",
+        "url": "https://www.newspenguin.com/news/articleView.html?idxno=21865",
+        "mislead_score": 9,
+        "mislead_type": "기타",
+        "note": "야생동물 폭염 피해와 부합",
+        "unverified": false,
+        "X": "폭염으로 지붕과 바다가 달아오르며 야생동물이 실제로 목숨을 잃고 있다는 환경 기사로 보인다.",
+        "Y": "폭염·산불·가뭄·집중호우가 겹치면서 둥지의 새끼, 소형 포유류, 곤충 등 이동이 어려운 야생동물이 피해를 입는다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "사회",
+        "title": "[전남광주 청사진]무안군-김산 군수 \"미래 100년 준비할 시간…화합·소...",
+        "domain": "namdonews.com",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=916783",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "제목과 정책 요약 대체로 일치",
+        "unverified": false,
+        "X": "김산 무안군수가 군의 장기 발전과 주민 화합을 위한 큰 청사진을 제시한 기사로 보인다.",
+        "Y": "무안군은 복지·재난안전·신도시 정주여건·농촌 발전을 묶어 미래 100년 전략을 추진하겠다고 밝혔다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "사회",
+        "title": "[박근종 칼럼] 극한 고온에 첫 폭염 중대경보, 재난이 차별 안 되게 취약...",
+        "domain": "mhns.co.kr",
+        "url": "https://www.mhns.co.kr/news/articleView.html?idxno=753241",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "칼럼 주장과 요약 일치",
+        "unverified": false,
+        "X": "사상 첫 폭염 중대경보 상황에서 취약계층 보호가 필요하다고 주장하는 칼럼으로 보인다.",
+        "Y": "전국적 찜통더위와 경북 일부 지역의 폭염 중대경보를 계기로 취약계층 안전대책 강화를 강조했다."
       }
     ],
     "politics": [
@@ -186,6 +225,45 @@
         "unverified": false,
         "X": "정청래 출마로 민주당 전당대회 구도가 완성되고 야당 지지율 하락까지 이어진 뉴스로 읽힌다.",
         "Y": "정청래와 김민석이 각각 민주당 정체성과 이재명 정부 안정론을 내세우며 당대표 경쟁 구도를 형성한다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "정치",
+        "title": "정청래 출마에 친명·친청 신경전…전대 룰 놓고도 정면 충돌",
+        "domain": "news1.kr",
+        "url": "https://www.news1.kr/politics/assembly/6226733",
+        "mislead_score": 12,
+        "mislead_type": "기타",
+        "note": "룰 충돌은 요약상 일부",
+        "unverified": false,
+        "X": "정청래 출마 이후 친명·친청 진영이 전대 룰과 당 미래를 두고 맞붙는 기사로 보인다.",
+        "Y": "정청래를 향한 당내 비판과 전대 관련 신경전, 이재명 대통령의 청년 정책 지시 언급이 함께 다뤄진다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "정치",
+        "title": "당정 “3대 메가프로젝트 속도감 있게 추진”",
+        "domain": "kjdaily.com",
+        "url": "http://www.kjdaily.com/article.php?aid=1783941868682322002",
+        "mislead_score": 10,
+        "mislead_type": "기타",
+        "note": "정책 방향과 요약 부합",
+        "unverified": false,
+        "X": "정부와 여당이 3대 메가프로젝트를 빠르게 추진하기로 합의했다는 정책 기사로 읽힌다.",
+        "Y": "당정은 부동산 대토론회 이후 세제 개편안을 국회에 내고 노후소득 보장체계 개편도 검토한다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "정치",
+        "title": "민주당 , 5인5색 당권 리더십 경쟁",
+        "domain": "newsprime.co.kr",
+        "url": "http://www.newsprime.co.kr/news/article.html?no=740149",
+        "mislead_score": 10,
+        "mislead_type": "기타",
+        "note": "경쟁 구도와 요약 부합",
+        "unverified": false,
+        "X": "민주당 당권 주자 다섯 명의 서로 다른 리더십 경쟁을 비교한 기사로 읽힌다.",
+        "Y": "민주당의 지방선거 성과와 서울 패배를 배경으로 당정 관계 재정립과 차기 선거 전략이 쟁점이 된다."
       }
     ],
     "economy": [
@@ -279,6 +357,32 @@
         "unverified": false,
         "X": "서울에서 전세를 구하려는 청년들이 부모 도움 없이는 버티기 어렵고 대출 규제 완화를 요구한다는 인상을 준다.",
         "Y": "청년 61명 설문을 통해 집값 상승과 대출 한도 축소로 자금 계획이 흔들리며 전월세 지원보다 실수요 대출 조정 요구가 커졌다는 내용이다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "경제",
+        "title": "[ 부동산 돋보기] 하반기 두 복병, 금리 와 세금… 시세보다 매물 흐름을...",
+        "domain": "economychosun.com",
+        "url": "https://economychosun.com/site/data/html_dir/2026/07/06/2026070600018.html",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "전망 요지와 일치",
+        "unverified": false,
+        "X": "하반기 부동산 시장에서 금리와 세금 변화보다 실제 매물 흐름을 더 봐야 한다는 전문가 조언처럼 보인다.",
+        "Y": "하반기 주택 시장은 금리 인상과 세법 개정이 변수이고 전세·월세 전환과 레버리지 관리까지 함께 살펴야 한다는 부동산 전망이다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "경제",
+        "title": "중동 리스크·반도체 피크아웃 우려에 코스피 6800선으로 후퇴",
+        "domain": "industrynews.co.kr",
+        "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83262",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "원인과 지수 수준 일치",
+        "unverified": false,
+        "X": "중동 불안과 반도체 업황 정점 우려가 겹쳐 코스피가 6800선까지 밀렸다는 인상이다.",
+        "Y": "미국·이란 긴장과 반도체 피크아웃 우려 속 코스피가 8% 넘게 하락했고 원·달러 환율도 1503원대에 머문 상황을 전한다."
       }
     ],
     "entertainment": [
@@ -372,6 +476,45 @@
         "unverified": false,
         "X": "박한별이 영화 카르마 공개를 앞두고 카페에서 보낸 여름밤 일상을 올렸다는 근황 기사로 보인다.",
         "Y": "요약은 박한별의 카페 일상 사진을 계기로 얼짱 출신 데뷔 과정, 드라마·영화 활동, 수상 이력을 정리한다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "연예",
+        "title": "최성국 '24살 연하' 아내, 뮤지컬 지망생 출신이었다…\"보통 실력자가 ...",
+        "domain": "mhnse.com",
+        "url": "https://mhnse.com/news/articleView.html?idxno=1460996",
+        "mislead_score": 9,
+        "mislead_type": "기타",
+        "note": "예능 장면과 이력 혼합",
+        "unverified": false,
+        "X": "최성국의 24살 연하 아내가 뮤지컬 지망생 출신이고 노래 실력을 보였다는 예능 기사로 보인다.",
+        "Y": "MHN스포츠는 조선의 사랑꾼 노래자랑에서 최성국 가족이 무대에 오르는 내용과 최성국의 배우·예능 이력을 함께 전한다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "연예",
+        "title": "티파니 영, 새 앨범 'Edge of Calm' 비주얼 공개…강렬 눈빛 담았다",
+        "domain": "topstarnews.net",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16133279",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "비주얼 공개와 이력 정리",
+        "unverified": false,
+        "X": "티파니 영의 새 앨범 비주얼이 공개됐고 강한 콘셉트가 돋보인다는 컴백 기사로 보인다.",
+        "Y": "기사 요약은 티파니의 새 앨범 비주얼 공개 소식에 더해 뮤지컬·MC·솔로 가수 활동 이력을 함께 정리한다."
+      },
+      {
+        "date": "2026-07-13",
+        "section": "연예",
+        "title": "'신비주의' 버렸다…이동건→한채영, 배우들이 틱톡 켜는 속사정 [TEN스...",
+        "domain": "tenasia.co.kr",
+        "url": "https://www.tenasia.co.kr/article/2026071318994",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "틱톡 활용 분석 일치",
+        "unverified": false,
+        "X": "배우들이 신비주의를 벗고 틱톡 라이브를 켜는 이유를 짚는 산업 분석 기사로 보인다.",
+        "Y": "텐아시아는 작품 공백기 동안 팬 접점을 만들고 수익 기반도 넓히려는 배우들의 틱톡 라이브 활용과 엇갈린 시선을 설명한다."
       }
     ]
   }
