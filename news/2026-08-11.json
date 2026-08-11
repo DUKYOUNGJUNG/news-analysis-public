@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "rule": "verified only, event-deduped, sorted by mislead_score desc, 5-10 per section; no content/content_summary fields",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 5-10 per section; public fields only",
   "items": {
     "social": [
       {
