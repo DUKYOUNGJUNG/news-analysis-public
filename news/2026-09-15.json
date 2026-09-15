@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-15",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-09-15",
+        "section": "사회",
+        "title": "[아이치·나고야 AG] 폭우· 폭염 에 대지진까지…日 '24시간 기상 감시'",
+        "domain": "ajunews.com",
+        "url": "https://www.ajunews.com/view/20260915145843992",
+        "mislead_score": 20,
+        "mislead_type": "기타",
+        "note": "대지진 발생 아닌 대비 체계 설명",
+        "unverified": false,
+        "X": "아시안게임 개최지에서 폭우와 폭염뿐 아니라 대지진까지 실제로 닥친 듯 보인다.",
+        "Y": "개막 전 폭우로 선수단 약 400명이 대피한 가운데 조직위가 폭염·태풍·지진 가능성까지 포함한 24시간 감시체계를 운영한다는 내용이다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "사회",
+        "title": "트럼프 이민제한 잇단 제동…유학생 규정 막히고 영주권 정책 피소",
+        "domain": "view.asiae.co.kr",
+        "url": "https://view.asiae.co.kr/article/2026091509070974602",
+        "mislead_score": 18,
+        "mislead_type": "조건맥락삭제",
+        "note": "영주권 규정은 중단 아닌 소송 단계",
+        "unverified": false,
+        "X": "트럼프 행정부의 유학생 체류 제한과 영주권 심사 강화 정책이 모두 시행 중단된 듯한 인상을 준다.",
+        "Y": "법원이 유학생 체류기간 상한 규정은 막았지만 영주권 심사 강화 규정은 22개 주 등이 소송을 낸 단계라고 전한다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "사회",
+        "title": "‘23년 연속 신입생 충원율 100%’ 서정대학교, 2027학년도 수시 1천283명...",
+        "domain": "seoul.co.kr",
+        "url": "https://www.seoul.co.kr/news/society/education-news/2026/09/15/20260915500173?wlog_tag3=naver",
+        "mislead_score": 12,
+        "mislead_type": "기타",
+        "note": "충원율 성과와 모집정보가 대체로 일치",
+        "unverified": false,
+        "X": "서정대가 23년 연속 정원을 모두 채웠고 2027학년도 수시에서도 1,283명을 뽑는다고 안내하는 기사로 보인다.",
+        "Y": "서정대의 수시 모집 규모와 전형 방식, 충원율·취업률 및 학과별 교육 성과를 소개한다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-09-15",
+        "section": "정치",
+        "title": "삼성 직원 절반의 야근수당, ‘가보지 않은 길’이 지운다",
+        "domain": "newscham.net",
+        "url": "https://newscham.net/articles/117196",
+        "mislead_score": 58,
+        "mislead_type": "범위축소",
+        "note": "일부 직원 수당 문제를 절반으로 확대",
+        "unverified": false,
+        "X": "삼성 직원의 절반이 새 근로시간 제도 때문에 이미 야근수당을 잃게 된 것으로 보인다.",
+        "Y": "삼성전자 일부 직군의 포괄임금과 장시간 노동 문제를 들어 근로시간 유연화 법안이 수당과 노동시간에 미칠 영향을 비판한 칼럼이다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "정치",
+        "title": "김민석 \"尹의 배다른 형제\" … 한동훈 \"멘탈 관리하세요\"",
+        "domain": "mk.co.kr",
+        "url": "https://www.mk.co.kr/article/12153514",
+        "mislead_score": 42,
+        "mislead_type": "인용을사실처럼",
+        "note": "여야 대표의 거친 공방을 제목화",
+        "unverified": false,
+        "X": "김민석 대표가 한동훈 전 대표를 윤석 전 대통령의 혈연상 형제로 지목한 사실이 드러난 듯 보인다.",
+        "Y": "김민석 대표가 한동훈 전 대표의 정치 스타일을 윤석 전 대통령과 닮았다고 공격했고 한 전 대표가 맞받아친 공방을 다룬다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "정치",
+        "title": "의무공개매수제도 도입 1차 관문 통과...50%+1주 시행령 없어",
+        "domain": "edaily.co.kr",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=04752726645580448&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "mislead_score": 28,
+        "mislead_type": "조건맥락삭제",
+        "note": "세부 매수비율은 시행령에 위임",
+        "unverified": false,
+        "X": "의무공개매수제가 50%에 한 주를 더한 비율로 곧바로 확정돼 시행되는 듯 보인다.",
+        "Y": "자본시장법 개정안이 국회 소위를 통과했으나 구체적인 의무 매수비율은 법에 못 박지 않고 시행령으로 정하도록 한 단계다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-09-15",
+        "section": "경제",
+        "title": "[셀럽의 한 수] 또 다른 변수 9월 BOJ 일본으로 돈이 돌아간다?",
+        "domain": "biz.sbs.co.kr",
+        "url": "https://biz.sbs.co.kr/article_hub/20000334752?division=NAVER",
+        "mislead_score": 38,
+        "mislead_type": "의문형단정회피",
+        "note": "BOJ 변수의 가능성을 질문형으로 부각",
+        "unverified": false,
+        "X": "9월 일본은행 결정으로 해외 자금이 일본으로 대거 이동할 가능성이 매우 큰 듯 보인다.",
+        "Y": "시장 전문가가 일본은행 정책 변화를 변수 중 하나로 짚으며 국내 증시와 환율에 미칠 가능성을 문답 형식으로 살펴본다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "경제",
+        "title": "\" 환율 ·유가·금리 다 올랐네\"…외인 '3조' 던졌다",
+        "domain": "wowtv.co.kr",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150509&t=NN",
+        "mislead_score": 32,
+        "mislead_type": "조건맥락삭제",
+        "note": "3조원은 여러 거래일 누적 매도액",
+        "unverified": false,
+        "X": "환율·유가·금리가 오른 하루에 외국인이 국내 주식을 3조원어치 매도한 듯 보인다.",
+        "Y": "대외 금리와 유가 상승 속에서 외국인이 최근 여러 거래일 누적으로 약 3조원을 순매도하며 코스피가 약세를 보였다고 전한다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "경제",
+        "title": "강남 꺾였는데 성북 1.83%↑, 서울 집값 외곽이 주도 [ 부동산 360]",
+        "domain": "biz.heraldcorp.com",
+        "url": "https://biz.heraldcorp.com/article/10874044?ref=naver",
+        "mislead_score": 22,
+        "mislead_type": "범위축소",
+        "note": "주간 상승률로 외곽 주도 흐름 강조",
+        "unverified": false,
+        "X": "강남 집값이 하락세로 돌아서고 서울 전체 상승세를 성북 등 외곽 지역이 대신 이끄는 상황처럼 보인다.",
+        "Y": "주간 통계에서 강남권 상승폭이 둔화된 반면 성북구 등 일부 외곽 지역의 아파트값 상승률이 높아진 흐름을 분석한다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "태국 재벌이랑 결혼했는데...'뜻밖의 장소'에서 근황 포착된 여자 연예 ...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1159590",
+        "mislead_score": 65,
+        "mislead_type": "조건맥락삭제",
+        "note": "장소와 인물을 숨겨 호기심 유도",
+        "unverified": false,
+        "X": "태국 재벌과 결혼한 여성 연예인이 예상 밖의 문제성 장소에서 발견된 듯 보인다.",
+        "Y": "배우 신주아가 서울에서 열린 류화영의 결혼식과 뒤풀이 모임에 참석한 사진을 SNS에 올린 근황을 다룬다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "'학폭 하차→활동 중단' 유명 배우, 필리핀서 '새출발' 하더니…\"사랑스...",
+        "domain": "tvreport.co.kr",
+        "url": "https://www.tvreport.co.kr/entertainment/article/1075908/",
+        "mislead_score": 58,
+        "mislead_type": "조건맥락삭제",
+        "note": "배우 이름을 감춰 논란으로 클릭 유도",
+        "unverified": false,
+        "X": "학교폭력으로 퇴출된 정체불명의 배우가 필리핀에서 완전히 새 인생을 시작한 듯 보인다.",
+        "Y": "배우 김지수가 필리핀 드라마에서 사이버 범죄 조직의 악역을 맡고 촬영장과 가족 일상을 공개한 근황을 전한다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "54세 나이가 도통 믿기지 않는다...여전한 동안 근황 공개한 '여자 연예 ...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1159531",
+        "mislead_score": 55,
+        "mislead_type": "조건맥락삭제",
+        "note": "박주미 이름을 감춘 동안 외모 기사",
+        "unverified": false,
+        "X": "54세라는 나이가 믿기지 않을 만큼 달라진 여성 연예인의 정체가 큰 화제가 된 듯 보인다.",
+        "Y": "배우 박주미가 SNS에 올린 필라테스와 일상 사진을 소개하고 과거 광고와 연기 경력을 되짚는다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "'하시시박♥︎' 봉태규. 불륜남녀에 일침 \"바람피우는 人, 참 부지런해...",
+        "domain": "osen.co.kr",
+        "url": "http://www.osen.co.kr/article/G1112875919",
+        "mislead_score": 42,
+        "mislead_type": "범위축소",
+        "note": "역사 예능 발언을 사생활 일침처럼 배치",
+        "unverified": false,
+        "X": "봉태규가 현실의 불륜 당사자들을 겨냥해 공개적으로 비판한 듯 보인다.",
+        "Y": "봉태규가 역사 예능 녹화에서 러시아 황실의 복잡한 연애사를 듣고 바람피우는 사람은 부지런하다고 반응한 방송 예고다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "가수 츄, 삿포로 거리서 붉은 원피스 자태…정규 1집 이어 여행 근황",
+        "domain": "topstarnews.net",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16194701",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "여행 사진과 활동 근황이 제목과 일치",
+        "unverified": false,
+        "X": "가수 츄가 삿포로 여행 중 붉은 원피스를 입은 사진과 최근 음악 활동 소식을 함께 공개한 것으로 보인다.",
+        "Y": "츄가 삿포로 거리에서 찍은 여행 사진을 SNS에 올린 사실과 정규 앨범 및 연기 활동 이력을 소개한다."
+      },
+      {
+        "date": "2026-09-15",
+        "section": "연예",
+        "title": "재일교포 여 배우 나카무라 유리, 암 투병 끝 별세…향년 44세",
+        "domain": "dailian.co.kr",
+        "url": "https://www.dailian.co.kr/news/view/1690481/?sc=Naver",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "사망 원인과 나이가 본문과 일치",
+        "unverified": false,
+        "X": "재일교포 배우 나카무라 유리가 암 투병 끝에 44세로 세상을 떠났다는 소식으로 보인다.",
+        "Y": "나카무라 유리가 암 치료와 활동을 병행하다 44세에 별세했고 가수에서 배우로 전향한 경력을 전한다."
+      }
+    ]
+  }
+}
