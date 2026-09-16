@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-16",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-09-16",
+        "section": "사회",
+        "title": "만취해 제한속도 2배 속도로 교통 사망사고 낸 20대 징역 형",
+        "domain": "kwnews.co.kr",
+        "url": "https://www.kwnews.co.kr/article/20260915501535",
+        "mislead_score": 4,
+        "mislead_type": "기타",
+        "note": "제목과 판결 요지가 일치한다",
+        "unverified": false,
+        "X": "만취 운전자가 제한속도의 두 배를 넘겨 달리다 사망사고를 내 실형을 선고받았다는 인상을 준다.",
+        "Y": "만취 상태에서 과속과 신호 위반으로 사망사고를 낸 20대에게 항소심이 원심보다 무거운 형을 선고했다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-09-16",
+        "section": "정치",
+        "title": "\"김현지시스템 인사\"·\"서울주거난 吳책임\"…홍지선 청문회 공방(종합)",
+        "domain": "yna.co.kr",
+        "url": "https://www.yna.co.kr/view/AKR20260916094151001?input=1195m",
+        "mislead_score": 22,
+        "mislead_type": "범위축소",
+        "note": "공방의 자극적 표현만 전면에 배치",
+        "unverified": false,
+        "X": "홍지선 후보자 인사를 둘러싸고 여야가 김현지 실장과 오세훈 시장 책임론으로 격렬히 충돌한 것으로 읽힌다.",
+        "Y": "인사청문회에서는 자료 제출과 부동산 보유, 정부 주택정책을 놓고 여야가 공방을 벌였고 후보자의 해명도 함께 다뤄졌다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-09-16",
+        "section": "경제",
+        "title": "코스피 , 반도체주 강세에 5거래일 만에 반등…6,700선 회복",
+        "domain": "newskr.kr",
+        "url": "http://www.newskr.kr/news/articleView.html?idxno=106440",
+        "mislead_score": 8,
+        "mislead_type": "조건맥락삭제",
+        "note": "외국인·개인 순매도 맥락은 생략",
+        "unverified": false,
+        "X": "대형 반도체주 상승으로 코스피가 닷새 만에 반등해 6,700선을 되찾았다는 뜻으로 읽힌다.",
+        "Y": "코스피는 반도체주 강세와 기관 매수에 힘입어 1.37% 오른 6,717.97에 마감했지만 외국인과 개인은 순매도했다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-09-16",
+        "section": "연예",
+        "title": "아만다 사이프리드, 결혼 9년 만에 파경 \"가족 위한 선택\"",
+        "domain": "joynews24.com",
+        "url": "http://www.joynews24.com/view/2006222",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "제목과 공식 발표 내용이 대체로 일치",
+        "unverified": false,
+        "X": "아만다 사이프리드 부부가 결혼 9년 만에 가족을 고려해 이혼을 결정했다는 내용으로 읽힌다.",
+        "Y": "아만다 사이프리드와 토마스 사도스키는 공동 성명을 내고 결혼 9년 만의 이혼을 공식 발표했다."
+      }
+    ]
+  }
+}
