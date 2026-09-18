@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-18",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-09-18",
+        "section": "사회",
+        "title": "3.8%도 못 채운 대구 공공기관…장애인 채용은 ‘단기’ 쏠림",
+        "domain": "yeongnam.com",
+        "url": "https://www.yeongnam.com/web/view.php?key=20260918022439338",
+        "mislead_score": 18,
+        "mislead_type": "범위축소",
+        "note": "대구 공공기관 전체가 아닌 일부 대상",
+        "unverified": false,
+        "X": "대구의 공공기관 전반이 장애인 의무고용률을 못 채우고 채용도 대부분 단기에 그친 것으로 읽힌다.",
+        "Y": "대구시 산하 의무고용 대상 출자·출연기관 8곳은 모두 기준에 미달했고, 조사된 장애인 별도 채용 48건 중 46건은 기간제나 인턴이었다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-09-18",
+        "section": "정치",
+        "title": "‘현재 활동하는 정치인 중 가장 신뢰하는 사람이 누구야?’ 1013명에게...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1160575",
+        "mislead_score": 42,
+        "mislead_type": "조건맥락삭제",
+        "note": "결과보다 표본만 내세운 호기심형 제목",
+        "unverified": false,
+        "X": "1013명 조사에서 가장 신뢰받는 정치인이 뚜렷하게 가려진 듯한 인상을 준다.",
+        "Y": "조사에서 한동훈 의원 11.4%와 이재명 대통령 11.1%는 오차범위 안의 동률이었고, 특정 인물을 답하지 않은 비율이 39.3%로 가장 컸다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-09-18",
+        "section": "경제",
+        "title": "\" 집값 반토막\" 예언 부동산 폭락론자들의 배신[기고]",
+        "domain": "realty.chosun.com",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/09/18/2026091801228.html",
+        "mislead_score": 54,
+        "mislead_type": "조건맥락삭제",
+        "note": "익명 사례와 필자 평가를 집단 배신으로 확대",
+        "unverified": false,
+        "X": "집값 폭락을 예언한 전문가들이 실제 전망을 뒤집어 대중을 배신했다는 사실이 확인된 듯하다.",
+        "Y": "기고자는 익명 전문가와 무주택자 사례를 들어 일부 하락론자의 논조 변화와 예측 의존의 위험을 비판했지만, 대상과 근거를 구체적으로 밝히지는 않았다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-09-18",
+        "section": "연예",
+        "title": "진짜 남다르다…'국민 첫사랑' 수지 오늘자 근황, 눈길 확 쏠렸다",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1160507",
+        "mislead_score": 52,
+        "mislead_type": "범위축소",
+        "note": "근황의 핵심인 브랜드 행사와 스타일을 숨김",
+        "unverified": false,
+        "X": "수지에게 평소와 크게 다른 특별한 사건이나 변화가 생긴 듯한 제목이다.",
+        "Y": "수지가 스킨케어 브랜드 행사에서 올백 머리와 흰색 셔츠형 원피스를 선보인 모습을 중심으로 활동 이력과 차기작을 덧붙인 기사다."
+      }
+    ]
+  }
+}
