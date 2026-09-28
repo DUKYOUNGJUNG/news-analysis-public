@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-28",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-09-28",
+        "section": "사회",
+        "title": "고용주 살해한 운전기사 구속 심사...한강에선 흉기 난동",
+        "domain": "ytn.co.kr",
+        "url": "https://www.ytn.co.kr/_ln/0103_202609281356533863",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "두 사건을 나란히 소개한 연휴 사건사고 종합",
+        "unverified": false,
+        "X": "운전기사 살인 사건의 구속 심사와 한강공원 흉기 난동이라는 두 사건이 함께 보도됐다고 받아들이게 된다.",
+        "Y": "고용주 살해 혐의를 인정한 운전기사의 구속 심사와 시민 피해 없이 제압된 양화한강공원 흉기 소지 사건을 차례로 전한다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-09-28",
+        "section": "정치",
+        "title": "與, 이르면 내달 1일 본회의서 '조작기소 특검법' 처리 검토... 野, 의원...",
+        "domain": "hankookilbo.com",
+        "url": "https://www.hankookilbo.com/news/article/A2026092817170001756?did=NA",
+        "mislead_score": 14,
+        "mislead_type": "기타",
+        "note": "처리 확정이 아닌 여당 지도부 검토 단계",
+        "unverified": false,
+        "X": "여당이 조작기소 특검법의 10월 1일 처리를 유력하게 추진하고 야당도 대응을 위해 의원들을 대기시킨 것으로 보인다.",
+        "Y": "민주당 지도부가 공소취소 권한 삭제를 전제로 특검법의 10월 초 처리를 검토하며 필리버스터 가능성에 대비해 의원들에게 주말 일정을 비워 달라고 공지했다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-09-28",
+        "section": "경제",
+        "title": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다...",
+        "domain": "biz.heraldcorp.com",
+        "url": "https://biz.heraldcorp.com/article/10886323?ref=naver",
+        "mislead_score": 54,
+        "mislead_type": "조건맥락삭제",
+        "note": "월 200만원은 이자 아닌 조건부 원리금",
+        "unverified": false,
+        "X": "은행에서 고정형 주택담보대출을 받으면 대출 규모와 무관하게 매달 이자만 200만원가량 내야 하는 듯한 인상을 준다.",
+        "Y": "5대 은행 고정형 주담대 하단 금리가 5% 안팎으로 오른 가운데 4억원을 30년 원리금균등상환으로 빌리면 월 상환액이 약 215만원이라는 계산을 제시한다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-09-28",
+        "section": "연예",
+        "title": "\"엄마 심정지 왔는데 연락 안 받아\"… 친언니 '공개 저격'한 걸그룹 출신...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1162361",
+        "mislead_score": 27,
+        "mislead_type": "범위축소",
+        "note": "권민아 SNS 주장이라는 출처를 제목서 생략",
+        "unverified": false,
+        "X": "걸그룹 출신 인물이 어머니의 심정지 상황에도 연락받지 않은 친언니를 공개적으로 비판한 사실이 확인된 사건처럼 읽힌다.",
+        "Y": "AOA 출신 권민아가 어머니가 위독한데 친언니와 연락되지 않는다고 SNS에 주장했으며, 기사에는 앞서 제기한 금전 갈등도 언니 측 입장이 없는 일방 주장이라고 적혀 있다."
+      }
+    ]
+  }
+}
