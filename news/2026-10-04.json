@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-04",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-10-04",
+        "section": "사회",
+        "title": "80억원대 상속세 '주식 납부', 결손 회사라면?…法 \"거부 적법\"",
+        "domain": "mobile.newsis.com",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261002_0003812866",
+        "mislead_score": 12,
+        "mislead_type": "조건맥락삭제",
+        "note": "거부 이유인 구조적 결손과 소수지분을 생략",
+        "unverified": false,
+        "X": "결손 회사의 주식이라면 상속세 물납을 언제나 거부할 수 있다는 법원 판단으로 보인다.",
+        "Y": "법원은 2년 연속 결손과 소수지분의 처분 곤란 등을 근거로 이 사건 비상장주식에 대한 물납 거부가 적법하다고 판단했다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-10-04",
+        "section": "정치",
+        "title": "국힘, 개천절 대규모 집회…\"부동산 정책 대전환하라\"",
+        "domain": "hankyung.com",
+        "url": "https://www.hankyung.com/article/2026100426271",
+        "mislead_score": 8,
+        "mislead_type": "범위축소",
+        "note": "집회의 안보·사법 비판 의제는 제목서 제외",
+        "unverified": false,
+        "X": "국민의힘이 개천절 집회를 열어 정부의 부동산 정책 전환을 주로 요구한 것으로 보인다.",
+        "Y": "국민의힘은 대규모 장외집회에서 부동산 규제뿐 아니라 대북 정책과 대통령 형사재판 재개 등을 함께 주장했고 민주당은 이를 비판했다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-10-04",
+        "section": "경제",
+        "title": "[증시전망] 삼성전자 '깜짝 실적' 나올까...코스피 7000선 안착 시험대",
+        "domain": "digitaltoday.co.kr",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704963",
+        "mislead_score": 10,
+        "mislead_type": "의문형단정회피",
+        "note": "깜짝 실적 가능성보다 변수 점검이 중심",
+        "unverified": false,
+        "X": "삼성전자의 예상 밖 호실적이 코스피 7000선 안착을 이끌 가능성이 큰 것으로 보인다.",
+        "Y": "기사는 삼성전자 실적과 반도체 이익 전망, 미국 금리와 유가가 엇갈려 코스피가 7000선 부근의 박스권을 벗어날지는 불확실하다고 전망한다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-10-04",
+        "section": "연예",
+        "title": "최강희, 5년 전 '은퇴 선언' 직전까지 갔다…송은이 \"바르르 떨며 못 하겠다고\"",
+        "domain": "sportschosun.com",
+        "url": "https://www.sportschosun.com/entertainment/2026-10-04/202610040100024930001490",
+        "mislead_score": 18,
+        "mislead_type": "조건맥락삭제",
+        "note": "은퇴 직전 장면보다 복귀 과정이 기사 중심",
+        "unverified": false,
+        "X": "최강희가 5년 전 은퇴 선언을 하려다 두려움 때문에 마지막 순간에 포기한 사건이 핵심으로 보인다.",
+        "Y": "송은이는 최강희가 과거 은퇴 의사를 알리는 방송을 앞두고 긴장해 실행하지 못했다고 회상했으며, 기사는 그가 5년 만에 연극으로 복귀한 과정을 전한다."
+      }
+    ]
+  }
+}
