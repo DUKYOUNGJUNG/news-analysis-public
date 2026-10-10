@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-10",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-10-10",
+        "section": "사회",
+        "title": "경산 자동차 정비소에 불...인천 앞바다서 어선 침수",
+        "domain": "ytn.co.kr",
+        "url": "https://www.ytn.co.kr/_ln/0103_202610102317052812",
+        "mislead_score": 8,
+        "mislead_type": "범위축소",
+        "note": "여러 주말 사고 중 두 건만 제목에 제시",
+        "unverified": false,
+        "X": "경산 정비소 화재와 인천 앞바다 어선 침수가 이날의 주된 두 사고였다는 인상을 준다.",
+        "Y": "경산 정비소 화재로 건물과 차량이 탔고 인천 해상에서는 22명이 탄 침수 낚싯배의 승선원 전원이 구조된 주말 사고 소식이다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-10-10",
+        "section": "정치",
+        "title": "국정감사 1주차 마무리...이화영 가석방 요청 논란",
+        "domain": "ytn.co.kr",
+        "url": "https://www.ytn.co.kr/_ln/0101_202610102303258554",
+        "mislead_score": 15,
+        "mislead_type": "범위축소",
+        "note": "대담의 여러 정치 현안 중 두 쟁점만 부각",
+        "unverified": false,
+        "X": "국정감사 첫 주 평가와 이화영 전 부지사의 가석방 요청 논란이 보도의 중심이라는 인상을 준다.",
+        "Y": "여야 패널이 고성과 막말로 흐른 국정감사 첫 주를 평가하고 이화영 가석방 요청을 포함한 정치권 현안을 논의한 대담이다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-10-10",
+        "section": "경제",
+        "title": "'100조 시대' 삼성전자 최대 실적...주가는 하락",
+        "domain": "ytn.co.kr",
+        "url": "https://www.ytn.co.kr/_ln/0102_202610101815005051",
+        "mislead_score": 4,
+        "mislead_type": "기타",
+        "note": "최대 실적과 주가 하락을 그대로 전달",
+        "unverified": false,
+        "X": "삼성전자가 분기 영업이익 100조 원을 넘겼지만 발표 뒤 주가는 하락했다는 내용으로 읽힌다.",
+        "Y": "삼성전자가 HBM 호조로 분기 영업이익 100조 원을 돌파한 배경과 호실적에도 주가가 하락한 이유를 전문가와 짚은 대담이다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-10-10",
+        "section": "연예",
+        "title": "“임신 23주 차” 남창희♥‘한강 아이유’ 윤영경, 결혼 8개월 만에 예비 부모 됐다",
+        "domain": "sportsseoul.com",
+        "url": "https://www.sportsseoul.com/news/read/1640488?ref=naver",
+        "mislead_score": 3,
+        "mislead_type": "기타",
+        "note": "임신 시기와 출산 예정일을 사실대로 전달",
+        "unverified": false,
+        "X": "남창희와 윤영경 부부가 결혼 8개월 만에 임신 소식을 알렸다는 내용으로 읽힌다.",
+        "Y": "남창희 소속사는 윤영경이 임신 23주 차이며 두 사람이 내년 2월 출산을 앞두고 있다고 밝혔다."
+      }
+    ]
+  }
+}
