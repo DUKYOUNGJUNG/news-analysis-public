@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-16",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-10-16",
+        "section": "사회",
+        "title": "대구의 학교 급식 노동 자들, 일하다 '화상' 입어도 자부담...\" 교육 청이 ...",
+        "domain": "pn.or.kr",
+        "url": "https://www.pn.or.kr/news/articleView.html?idxno=34243",
+        "mislead_score": 62,
+        "mislead_type": "조건맥락삭제",
+        "note": "산재 급여 보장과 비급여 자부담을 구분하지 않음",
+        "unverified": false,
+        "X": "대구 급식노동자는 화상 산재를 인정받아도 치료비 전액을 개인이 부담하는 것으로 읽힌다.",
+        "Y": "산재보험 급여 항목은 보장되지만 화상 치료의 비급여 비용은 노동자가 떠안아 노조가 교육청 지원과 인력 충원을 요구했다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "사회",
+        "title": "[팩트로 본 외국인 보론④] 한국은 이미 '이민국가'인가...5%보다 중요한...",
+        "domain": "eroun.net",
+        "url": "https://www.eroun.net/news/articleView.html?idxno=90489",
+        "mislead_score": 24,
+        "mislead_type": "의문형단정회피",
+        "note": "5% 기준의 진위를 질문형 제목 뒤로 숨김",
+        "unverified": false,
+        "X": "외국인 비중 5%를 근거로 한국이 이미 이민국가인지 판정하는 기사처럼 보인다.",
+        "Y": "공식적인 5% 판정 기준은 없으며 한국은 정착 인구가 빠르게 늘지만 전통적 이민국가와는 차이가 있다는 분석이다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "사회",
+        "title": "기피과 벗어난 비뇨의학과…이번엔 '대학병원 인력난'",
+        "domain": "medipana.com",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=419375",
+        "mislead_score": 14,
+        "mislead_type": "범위축소",
+        "note": "전체 전문의 증가와 병원급 정체를 짧게 압축함",
+        "unverified": false,
+        "X": "비뇨의학과가 기피과 문제를 해결했지만 새로 대학병원 인력 부족에 직면한 것으로 읽힌다.",
+        "Y": "전공의 지원은 회복됐으나 전문의 증가가 의원급에 집중돼 대학병원 교수와 지도전문의 부족이 진료와 수련을 위협한다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "사회",
+        "title": "서울대병원 노조, 이틀 연속 결의대회…16일부터 쟁의행위 찬반투표",
+        "domain": "mdtoday.co.kr",
+        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=619029",
+        "mislead_score": 6,
+        "mislead_type": "기타",
+        "note": "제목과 본문 핵심 일정이 일치함",
+        "unverified": false,
+        "X": "서울대병원 노조가 이틀간 집회를 열고 16일부터 쟁의행위 투표에 들어간다는 소식이다.",
+        "Y": "노조는 인력 확충과 처우 개선, 보건복지부 이관을 요구하며 16일부터 닷새간 찬반투표를 진행한다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-10-16",
+        "section": "정치",
+        "title": "윤석열 때도 계란 수입했는데... 한동훈의 '브라질 선물' 공세",
+        "domain": "ohmynews.com",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275975&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "mislead_score": 36,
+        "mislead_type": "조건맥락삭제",
+        "note": "두 수입 사례의 유사점으로 공세의 모순을 강조함",
+        "unverified": false,
+        "X": "과거 윤석열 정부도 정상회담 뒤 비싼 수입 계란을 들여왔으므로 한동훈 의원의 현 정부 비판이 모순이라는 인상을 준다.",
+        "Y": "과거 스페인산 수입에도 가격 논란이 있었고 민주당은 이번 브라질산 수입이 수급 대응과 수입선 다변화라고 반박했지만 양 사안의 세부 조건은 다르다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "정치",
+        "title": "추미애 ‘소방 재정 빨대’ 후폭풍… 민주당 대신 사과· 국민의힘 “망언...",
+        "domain": "joongang.co.kr",
+        "url": "https://www.joongang.co.kr/article/25470385",
+        "mislead_score": 18,
+        "mislead_type": "범위축소",
+        "note": "논란과 사과는 맞지만 재정구조 해명을 생략함",
+        "unverified": false,
+        "X": "추미애 지사의 소방 재정 발언 때문에 민주당이 사과하고 야당이 망언으로 규정한 정치 공방으로 보인다.",
+        "Y": "민주당은 표현에 사과했고 국민의힘과 노조는 비판했으며 경기도는 지방이 부담하는 국가직 소방 재정구조를 지적한 취지라고 해명했다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "정치",
+        "title": "민주당 지도부도 ‘조희대 탄핵’ 카드 만지작…신중론 뚫고 강수 둘까",
+        "domain": "ilyo.co.kr",
+        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513193",
+        "mislead_score": 12,
+        "mislead_type": "의문형단정회피",
+        "note": "추진 확정 전 단계임을 질문형으로 비교적 잘 드러냄",
+        "unverified": false,
+        "X": "민주당 지도부가 조희대 대법원장 탄핵을 실제 추진할지 저울질하는 상황으로 읽힌다.",
+        "Y": "민주당 대표가 탄핵 가능성을 논의 대상에 올렸지만 구체적 계획은 없고 당내에는 여론과 법리를 따져야 한다는 신중론도 있다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-10-16",
+        "section": "경제",
+        "title": "빚으로 쌓아 올린 인공지능 탑 흔들리자 반도체 시장서 1343조 원 날아갔...",
+        "domain": "g-enews.com",
+        "url": "https://www.g-enews.com/view.php?ud=202610161618451743fbbec65dfb_1",
+        "mislead_score": 64,
+        "mislead_type": "조건맥락삭제",
+        "note": "복합 시장 요인을 AI 부채 하나의 원인처럼 제시함",
+        "unverified": false,
+        "X": "빚에 의존한 인공지능 투자가 흔들린 탓에 반도체 시장 가치 1343조원이 증발한 것으로 단정된다.",
+        "Y": "미국 물가 충격과 고금리 우려 속에 인공지능 관련 기업의 주간 시가총액이 약 1조달러 감소했고 차입형 설비투자의 수익성 우려가 매도세를 키웠다는 분석이다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "경제",
+        "title": "씨 마른 전세 \"차라리 사자\"→매매시장 요동… 집값 좌우할 변수는?",
+        "domain": "mt.co.kr",
+        "url": "https://www.mt.co.kr/estate/2026/10/16/2026101522151728537",
+        "mislead_score": 38,
+        "mislead_type": "조건맥락삭제",
+        "note": "전세난이 매수 급증으로 직결된 듯 과장함",
+        "unverified": false,
+        "X": "전세 매물이 사라지자 세입자들이 매수로 몰려 집값을 흔드는 상황처럼 보인다.",
+        "Y": "실거주 의무와 공급 감소로 전세 거래가 줄고 월세 비중과 주거비가 늘었으며 향후 공급·세금·금리 등이 매매와 임대차 시장 변수로 제시됐다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "경제",
+        "title": "집값 잡겠다던 10·15 대책 1년…서울 아파트 10% 상승, 누가 웃고 누가...",
+        "domain": "ppss.kr",
+        "url": "https://www.ppss.kr/news/articleView.html?idxno=315917",
+        "mislead_score": 20,
+        "mislead_type": "조건맥락삭제",
+        "note": "정책 실패 인상보다 본문은 복합 원인을 인정함",
+        "unverified": false,
+        "X": "10·15 대책이 실패해 서울 집값만 10% 올리고 보유자와 무주택자의 희비를 갈랐다는 인상을 준다.",
+        "Y": "서울 아파트와 전셋값 상승 통계를 토대로 수요 이동 가능성을 짚되 공급과 정비사업 등 다른 변수 때문에 규제만의 결과로 단정할 수 없다고 설명한다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "경제",
+        "title": "[26.10.16 증시 인싸잇] 7거래일 폭락 멈췄다… 코스피 2% 반등· 코스닥 ...",
+        "domain": "mediawatch.kr",
+        "url": "https://www.mediawatch.kr/news/article.html?no=261388",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "수치와 반등 배경이 본문과 대체로 일치함",
+        "unverified": false,
+        "X": "7거래일 하락 뒤 코스피와 코스닥이 각각 2%대와 4%대 반등했다는 장 마감 소식이다.",
+        "Y": "저가 매수와 미국 증시 회복 영향으로 두 지수가 반등했지만 하루 상승만으로 추세 전환을 판단하기 어렵다고 분석했다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-10-16",
+        "section": "연예",
+        "title": "'102kg' 이장우, 먹방 중단 선언…\"그동안 사랑해주셔서 감사\"",
+        "domain": "spotvnews.co.kr",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013476",
+        "mislead_score": 72,
+        "mislead_type": "조건맥락삭제",
+        "note": "특정 채널의 일시 중단을 먹방 전체 중단처럼 확대함",
+        "unverified": false,
+        "X": "이장우가 체중 문제 등을 이유로 모든 먹방 활동을 그만두는 공식 은퇴 선언처럼 보인다.",
+        "Y": "이장우는 유튜브 채널 살찐삼촌을 재정비하기 위해 먹방 콘텐츠를 잠시 쉬고 더 나은 모습으로 돌아오겠다고 밝혔다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "연예",
+        "title": "전혀 몰랐던 이야기다…솔비와 결혼 소식에 재조명된 이규한 ‘가정사...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1166791",
+        "mislead_score": 66,
+        "mislead_type": "범위축소",
+        "note": "과거 공개 발언을 새 비밀 가정사처럼 포장함",
+        "unverified": false,
+        "X": "솔비와의 결혼 발표를 계기로 이규한에게 알려지지 않은 충격적인 가족사가 새로 드러난 듯하다.",
+        "Y": "이규한이 과거 방송에서 홀어머니 밑에서 자란 경험과 어머니가 혼주석에 홀로 앉을까 두려워 결혼식을 꺼렸다고 말한 내용이 다시 소개됐다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "연예",
+        "title": "‘9살 연하♥’ 스타 부부, 불륜 의혹 터졌다... \"별거→이혼 얘기도\" [...",
+        "domain": "mhnse.com",
+        "url": "https://mhnse.com/news/articleView.html?idxno=1595495",
+        "mislead_score": 58,
+        "mislead_type": "범위축소",
+        "note": "인물과 일본 연예계 맥락을 감춰 클릭을 유도함",
+        "unverified": false,
+        "X": "국내 유명 스타 부부에게 불륜 의혹이 터져 별거와 이혼까지 거론되는 사건처럼 읽힌다.",
+        "Y": "일본 배우 슈리와 미야마 료키 부부가 미야마의 불륜 의혹과 보수 미지급 논란 뒤 별거 중이며 이혼 가능성도 보도됐다는 내용이다."
+      },
+      {
+        "date": "2026-10-16",
+        "section": "연예",
+        "title": "학부모·직업계고·전과·대졸…SBS '영크크는 출근 중' 4MC, 서로 다른 ...",
+        "domain": "mhns.co.kr",
+        "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764682",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "진행자 구성과 프로그램 취지가 본문과 일치함",
+        "unverified": false,
+        "X": "서로 다른 교육 배경을 지닌 네 명의 진행자가 새 SBS 진로 프로그램에서 각자의 경험을 나눈다는 소식이다.",
+        "Y": "문세윤·이미주·이상엽·소슬지가 중학생과 부모의 고교 선택을 다루는 2부작에서 학부모와 진로 경험에 따른 관점을 전한다."
+      }
+    ]
+  }
+}
