@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-23",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-10-23",
+        "section": "사회",
+        "title": "기후살인 막는다…도·시군 머리 맞대",
+        "domain": "ccdailynews.com",
+        "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2447755",
+        "mislead_score": 66,
+        "mislead_type": "범위축소",
+        "note": "회의보다 강한 기후살인 방지 표현",
+        "unverified": false,
+        "X": "충남도가 기후재난 사망을 막을 즉각적 대책을 확정한 듯한 인상을 준다.",
+        "Y": "충남도와 시군은 기존 호우·폭염 대응을 평가하고 겨울철 대설과 도로 살얼음 정보를 공유하는 점검회의를 열었다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "사회",
+        "title": "[기자수첩] 해킹은 전방위인데, 1년 전 정부 약속 어디로",
+        "domain": "techm.kr",
+        "url": "https://www.techm.kr/news/articleView.html?idxno=156453",
+        "mislead_score": 48,
+        "mislead_type": "의문형단정회피",
+        "note": "정부 대책 실종을 질문형으로 암시",
+        "unverified": false,
+        "X": "정부가 1년 전 약속한 사이버 보안 대책을 사실상 방치했다는 인상을 준다.",
+        "Y": "여러 국정감사에서 산업 전반의 정보 유출이 다뤄진 가운데 칼럼은 범정부 보안 대책 이행이 부족하다고 비판한다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "사회",
+        "title": "서울대병원 28일 전면파업 예고···'필수 인력 충원' 요구",
+        "domain": "laborplus.co.kr",
+        "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41694",
+        "mislead_score": 22,
+        "mislead_type": "조건맥락삭제",
+        "note": "교섭·필수업무 유지 맥락 생략",
+        "unverified": false,
+        "X": "서울대병원이 28일부터 예외 없이 멈춰 환자 진료가 곧 중단될 듯한 인상을 준다.",
+        "Y": "노조는 인력 충원과 임금·관할 부처 변경을 요구하며 28일 파업을 예고했지만 필수업무 유지와 교섭 절차도 남아 있다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "사회",
+        "title": "[기고] 초광역특구법 노동 특례 조항의 문제점과 대안",
+        "domain": "worknworld.kctu.org",
+        "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510166",
+        "mislead_score": 14,
+        "mislead_type": "기타",
+        "note": "비판 기고임을 제목에 명시",
+        "unverified": false,
+        "X": "초광역특구법의 노동 특례가 실제로 노동권을 후퇴시키는 문제가 확정된 듯 읽힌다.",
+        "Y": "노동계 필자는 기간제 사용기간 연장 등 특례가 안전과 고용 안정을 해칠 수 있다며 대안 마련을 주장한다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "사회",
+        "title": "영광군, '노무 상담부터 혈관 검진까지'... 염전 종사자 권익 증진 총력",
+        "domain": "newsworker.co.kr",
+        "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=510244",
+        "mislead_score": 12,
+        "mislead_type": "범위축소",
+        "note": "단일 행사에 총력 표현 사용",
+        "unverified": false,
+        "X": "영광군이 염전 노동자 권익 문제를 전방위로 해결하는 대규모 정책을 가동한 듯 보인다.",
+        "Y": "영광군은 염전 종사자 대상 행사에서 임금·근로조건 상담과 근골격계 예방교육, 혈관 검진 등을 제공했다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-10-23",
+        "section": "정치",
+        "title": "시작은 조희대, 중간은 이진숙, 끝은 쇼츠? [웁스구라]",
+        "domain": "hani.co.kr",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1283911.html",
+        "mislead_score": 38,
+        "mislead_type": "의문형단정회피",
+        "note": "국감 평가를 흥미 유도형으로 압축",
+        "unverified": false,
+        "X": "이번 국감이 조희대와 이진숙 논란으로 출발해 짧은 영상 정치로 끝났다는 풍자적 결론처럼 읽힌다.",
+        "Y": "한겨레 영상 콘텐츠는 집권 2년차 국정감사의 주요 장면과 쟁점 변화를 논평 형식으로 되짚는다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "정치",
+        "title": "국토장관, '제주공항 무더기 지연' 사과…'메달 따면 특공' 자체 검증(종...",
+        "domain": "newsis.com",
+        "url": "https://www.newsis.com/view/NISX20261023_0003839020",
+        "mislead_score": 26,
+        "mislead_type": "범위축소",
+        "note": "별도 국감 쟁점을 한 제목에 병치",
+        "unverified": false,
+        "X": "국토부 장관이 제주공항 지연 사과와 체육인 특별공급 검증을 함께 직접 지시한 사건처럼 보인다.",
+        "Y": "국토부 국정감사에서는 제주공항 항공편 지연 사과와 체육인 주택 특별공급 기준 검증 등 여러 현안이 각각 다뤄졌다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "정치",
+        "title": "건설근로자공제회 이사장 '낙하산·이력 누락' 공방…산재 지연·자격시...",
+        "domain": "mediapen.com",
+        "url": "https://www.mediapen.com/news/view/1132147",
+        "mislead_score": 18,
+        "mislead_type": "범위축소",
+        "note": "인사 공방만 전면에 배치",
+        "unverified": false,
+        "X": "공제회 이사장의 낙하산 의혹과 경력 누락이 국감의 핵심 결론으로 확정된 듯하다.",
+        "Y": "국감에서는 이사장 경력과 인선 배경뿐 아니라 산재 처리 지연과 하청 노동자 통계 누락 문제도 제기됐다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "정치",
+        "title": "국토부 장관 “정비사업 조합원지위 양도 제한 완화 검토”",
+        "domain": "sedaily.com",
+        "url": "https://www.sedaily.com/article/20105477?ref=naver",
+        "mislead_score": 17,
+        "mislead_type": "조건맥락삭제",
+        "note": "검토 발언을 정책 변화처럼 강조",
+        "unverified": false,
+        "X": "정비사업 조합원 지위 양도 제한이 곧 완화될 가능성이 높은 것으로 받아들여질 수 있다.",
+        "Y": "국토부 장관은 제한 완화 여부를 검토하겠다고 답했을 뿐 구체적인 시행안이나 일정은 제시하지 않았다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "정치",
+        "title": "10년 만에 부활한 특별감찰관",
+        "domain": "hankyung.com",
+        "url": "https://www.hankyung.com/article/2026102317651",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "임명 사실과 공백 기간을 직접 전달",
+        "unverified": false,
+        "X": "10년간 비어 있던 특별감찰관 자리가 실제로 다시 채워졌다는 인상을 준다.",
+        "Y": "대통령이 최길수 후보자 임명안을 재가하면서 2016년 이후 공석이던 특별감찰관 제도가 다시 가동된다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-10-23",
+        "section": "경제",
+        "title": "전세 난 시작도 안했다?...\"고점 찍고 더 오를 수도\" 암울한 전망",
+        "domain": "mt.co.kr",
+        "url": "https://www.mt.co.kr/estate/2026/10/23/2026102023421223856",
+        "mislead_score": 72,
+        "mislead_type": "의문형단정회피",
+        "note": "질문형 뒤 가격 급등을 강하게 암시",
+        "unverified": false,
+        "X": "현재 전세난은 시작 단계이며 가격이 반드시 고점을 넘어 더 치솟을 것이라는 공포를 준다.",
+        "Y": "전문가들은 매물 부족과 갱신계약 종료로 부담이 커질 수 있다고 보지만 금리와 대출 등 변수에 따라 전망은 달라질 수 있다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "경제",
+        "title": "'2%대↓' 코스피 … MS·삼전닉스 실적에 AI 수익성 우려 씻을까",
+        "domain": "mt.co.kr",
+        "url": "https://www.mt.co.kr/stock/2026/10/23/2026102316105365078",
+        "mislead_score": 56,
+        "mislead_type": "의문형단정회피",
+        "note": "장중 하락 수치로 종가 흐름 오인",
+        "unverified": false,
+        "X": "코스피가 2%대 하락 마감했고 향후 실적만이 AI 수익성 우려를 해소할 수 있다는 인상을 준다.",
+        "Y": "코스피는 장중 크게 하락했지만 낙폭을 회복했고 기사는 다음 주 기업 실적이 반등 지속 여부의 변수라고 분석했다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "경제",
+        "title": "국토부 장관 “ 집값 상승세 둔화…연말 금리 오르면 시장 안정”",
+        "domain": "biz.heraldcorp.com",
+        "url": "https://biz.heraldcorp.com/article/10913249?ref=naver",
+        "mislead_score": 43,
+        "mislead_type": "조건맥락삭제",
+        "note": "조건부 전망을 안정 기대로 압축",
+        "unverified": false,
+        "X": "국토부가 집값 상승 둔화를 확인했고 연말 시장 안정도 확신하는 듯 보인다.",
+        "Y": "장관은 상승폭이 둔화했다고 진단하면서 금리 상승과 공급 확대가 이어질 경우 안정 가능성이 있다고 조건부로 전망했다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "경제",
+        "title": "[마감 시황] 코스피 , 장중 4%대 급락 딛고 극적 반등...5,550선 회복 마감",
+        "domain": "businesskorea.co.kr",
+        "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279567",
+        "mislead_score": 18,
+        "mislead_type": "결론반전",
+        "note": "장중 급락 뒤 소폭 상승을 극적으로 표현",
+        "unverified": false,
+        "X": "코스피가 4%대 폭락 위기를 완전히 뒤집어 강한 상승장으로 마감한 듯한 인상을 준다.",
+        "Y": "코스피는 장중 4% 넘게 밀렸다가 반도체주와 기관 매수로 회복해 전일보다 0.3% 오른 5550.30에 마감했다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-10-23",
+        "section": "연예",
+        "title": "'황제의 딸' '소림축구' 조미가 돌아온다? 중드 팬들 소리 질렀는데",
+        "domain": "newsworker.co.kr",
+        "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=510239",
+        "mislead_score": 78,
+        "mislead_type": "결론반전",
+        "note": "복귀 기대 뒤 본문에서 계획 부인",
+        "unverified": false,
+        "X": "중국 배우 조미가 공백을 끝내고 연예계와 작품 활동에 복귀할 가능성이 높다는 기대를 준다.",
+        "Y": "조미는 행사에 모습을 드러냈지만 과거 작품 재방송을 보라고 답해 당분간 복귀 계획이 없음을 밝혔다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "연예",
+        "title": "지수·신세경·서장훈이 이웃 … 수지도 계약했다는 삼성동 '400억 빌라...",
+        "domain": "newdaily.co.kr",
+        "url": "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300157.html",
+        "mislead_score": 44,
+        "mislead_type": "인용을사실처럼",
+        "note": "계약 보도를 확정 사실처럼 제시",
+        "unverified": false,
+        "X": "수지가 400억원 빌라를 계약해 지수·신세경·서장훈과 이웃이 된 사실이 확인된 듯 읽힌다.",
+        "Y": "기사는 수지를 포함한 여러 연예인이 해당 고급 빌라 계약자로 보도됐다고 전하며 분양가와 수지의 이력을 덧붙였다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "연예",
+        "title": "A2O 아이찡 부모 논란→나나 강도 실형→안용준 사기 피소[이슈위클리]",
+        "domain": "celuvmedia.com",
+        "url": "http://www.celuvmedia.com/article.php?aid=1792728274529708006",
+        "mislead_score": 36,
+        "mislead_type": "범위축소",
+        "note": "무관한 논란을 자극적으로 병치",
+        "unverified": false,
+        "X": "아이찡 가족 문제와 나나 강도 사건, 안용준 피소가 연결된 한 주의 핵심 스캔들처럼 보인다.",
+        "Y": "주간 연예 이슈 모음은 세 사건 외에도 드라마 대사 논란과 이혜성의 해명 등 여러 소식을 짧게 정리했다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "연예",
+        "title": "리센느 원이, 유튜브 예능 화제성 첫 조사 1위...압도적 존재감",
+        "domain": "star.ytn.co.kr",
+        "url": "https://star.ytn.co.kr/_sn/0117_202610231038534310",
+        "mislead_score": 30,
+        "mislead_type": "조건맥락삭제",
+        "note": "첫 조사 1위를 절대 성과로 확대",
+        "unverified": false,
+        "X": "리센느 원이가 전체 유튜브 예능에서 압도적으로 가장 화제인 출연자로 확정된 듯 보인다.",
+        "Y": "신설 웹비드라마 화제성 조사의 첫 회차에서 리센느 원이가 1위를 기록했고 성시경 채널 등이 뒤를 이었다."
+      },
+      {
+        "date": "2026-10-23",
+        "section": "연예",
+        "title": "서현진, 부친상…신작 '라이어' 공개 앞두고 비보",
+        "domain": "goodkyung.com",
+        "url": "https://www.goodkyung.com/news/articleView.html?idxno=292689",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "부친상과 작품 시점을 사실대로 전달",
+        "unverified": false,
+        "X": "서현진이 새 작품 공개 직전에 부친상을 당했다는 소식이 핵심이다.",
+        "Y": "서현진의 부친이 최근 별세해 가족과 장례를 치르고 있으며 새 드라마 공개 일정과 배우 경력도 함께 소개됐다."
+      }
+    ]
+  }
+}
