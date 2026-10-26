@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-26",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-10-26",
+        "section": "사회",
+        "title": "추미애 지사는 ‘세심히 살피겠다’고 썼다, 예산서에는 0이 적혀 있다",
+        "domain": "newscham.net",
+        "url": "https://newscham.net/130091/",
+        "mislead_score": 62,
+        "mislead_type": "조건맥락삭제",
+        "note": "미확정 예산안의 특정 사업 0원을 확정처럼 제시",
+        "unverified": false,
+        "X": "추미애 경기지사가 장애인 일자리 예산을 챙기겠다고 약속하면서도 확정 예산에는 한 푼도 반영하지 않은 듯하다.",
+        "Y": "경기도의 2027년 본예산 기초안에서 중증장애인 공공일자리 예산이 0원으로 잡혔지만 도는 재원 부족을 설명하며 아직 예산이 확정되지 않았다고 밝혔다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "사회",
+        "title": "[윤장열의 베를린에서 온 편지 - 34] 자연재해를 줄이려면 성장을 멈춰...",
+        "domain": "ibuan.com",
+        "url": "https://www.ibuan.com/news/articleView.html?idxno=56624",
+        "mislead_score": 55,
+        "mislead_type": "범위축소",
+        "note": "생산 전면 중단 아닌 탈성장론을 극단화",
+        "unverified": false,
+        "X": "자연재해를 줄이려면 경제성장과 생산 활동을 아예 중단해야 한다는 주장처럼 보인다.",
+        "Y": "칼럼은 모든 생산을 멈추자는 것이 아니라 GDP 증가를 최우선으로 삼는 체제에서 벗어나 불필요한 생산과 소비를 줄이는 탈성장을 제안한다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "사회",
+        "title": "[Interview] 안나 쿠트 신경제재단(NEF) 수석 펠로 | “기본소득은 시장...",
+        "domain": "economychosun.com",
+        "url": "https://economychosun.com/site/data/html_dir/2026/10/16/2026101600010.html",
+        "mislead_score": 14,
+        "mislead_type": "인용을사실처럼",
+        "note": "인터뷰이의 정책 평가를 단정형 인용으로 강조",
+        "unverified": false,
+        "X": "기본소득은 시장의 수탈을 막지 못하고 필수재의 공공 공급만이 정답이라는 결론이 확정된 듯하다.",
+        "Y": "안나 쿠트는 현금 지급만으로는 왜곡된 공급 구조를 바꾸기 어렵다며 주거·의료·돌봄 같은 필수 서비스를 공공 인프라로 제공해야 한다고 주장한다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "사회",
+        "title": "[AI 트렌드] 유니세프 한국위원회·서울여성가족재단, 유아 마음건강 콘...",
+        "domain": "ibabynews.com",
+        "url": "https://www.ibabynews.com/news/articleView.html?idxno=156197",
+        "mislead_score": 9,
+        "mislead_type": "범위축소",
+        "note": "여러 AI 동향 중 첫 소식을 대표 제목으로 사용",
+        "unverified": false,
+        "X": "유니세프 한국위원회와 서울여성가족재단이 유아 마음건강 콘텐츠를 공동 개발한 단일 소식으로 읽힌다.",
+        "Y": "유아 사회정서역량 콘텐츠 개발과 어린이집 보급 계획을 비롯해 생활 속 AI 활용 사례를 함께 묶어 소개한 동향 기사다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-10-26",
+        "section": "정치",
+        "title": "민주당 'AI 판사·탄핵' 공세… 국민의힘 \" 정치 재판 강요\"",
+        "domain": "newswhoplus.com",
+        "url": "https://www.newswhoplus.com/news/articleView.html?idxno=72688",
+        "mislead_score": 64,
+        "mislead_type": "조건맥락삭제",
+        "note": "개별 최고위원 제안을 민주당 전체 공세로 확대",
+        "unverified": false,
+        "X": "민주당이 당 차원에서 AI 판사 도입과 대법원장 탄핵을 함께 밀어붙이는 듯하다.",
+        "Y": "민주당 지도부 일부가 AI 판사 도입과 조희대 대법원장 탄핵을 제안했지만 둘 다 당론으로 확정되지 않았고 국민의힘은 사법부 압박이라고 반발했다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "정치",
+        "title": "김혜경 여사 골프 사건·영상 공개 충돌… 주진우 “황제 레슨” 與 “...",
+        "domain": "segye.com",
+        "url": "https://www.segye.com/newsView/20261026515394?OutUrl=naver",
+        "mislead_score": 57,
+        "mislead_type": "인용을사실처럼",
+        "note": "검증 안 된 황제 레슨 주장을 전면에 배치",
+        "unverified": false,
+        "X": "김혜경 여사가 특혜를 받아 고액의 프로 골프 레슨을 받은 사실이 영상으로 확인된 사건처럼 보인다.",
+        "Y": "주진우 의원이 골프 특혜 의혹과 영상을 제기했지만 청와대와 민주당은 허위라고 반박했고 지목된 프로골퍼도 동행 사실을 부인해 맞고발 공방으로 번졌다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "정치",
+        "title": "[사설]법원 판결을 문제 삼은 대법원장 탄핵 주장 우려한다",
+        "domain": "khan.co.kr",
+        "url": "https://www.khan.co.kr/article/202610261810001",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "사설의 비판 대상과 결론이 제목과 일치",
+        "unverified": false,
+        "X": "법원 판결에 대한 불만을 이유로 대법원장 탄핵을 추진하는 것은 부적절하다는 사설로 읽힌다.",
+        "Y": "사설은 판결 비판은 가능하지만 재판 개입 근거 없이 개별 판결을 조희대 대법원장 탄핵 사유로 연결하면 재판 독립을 해칠 수 있다고 지적한다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "정치",
+        "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+        "domain": "yna.co.kr",
+        "url": "https://www.yna.co.kr/view/AKR20261026149600011?input=1195m",
+        "mislead_score": 2,
+        "mislead_type": "기타",
+        "note": "시각별 주요 기사 묶음임을 제목이 그대로 표시",
+        "unverified": false,
+        "X": "오후 6시 기준 주요 뉴스를 짧게 모은 헤드라인 목록으로 예상된다.",
+        "Y": "연합뉴스가 오후 6시 시점의 국내외 주요 보도를 항목별로 요약해 연결한 기사 모음이다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-10-26",
+        "section": "경제",
+        "title": "전세 살다 월세 100만원 더 낸다…서울 외곽 ‘월 300만원’ 신규 계약도...",
+        "domain": "kmib.co.kr",
+        "url": "https://www.kmib.co.kr/article/20261026501719",
+        "mislead_score": 68,
+        "mislead_type": "조건맥락삭제",
+        "note": "100만원 이상 월세를 100만원 추가 부담처럼 표현",
+        "unverified": false,
+        "X": "전세 세입자가 월세 계약으로 바뀌면서 기존 주거비에 매달 100만원을 추가로 부담하게 된 사례를 다룬 듯하다.",
+        "Y": "서울 중소형 아파트 신규 전월세 계약 중 월세 100만원 이상 비중이 25.67%로 늘었고 외곽 10개 구의 월 300만원 이상 계약도 13건에서 62건으로 증가했다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "경제",
+        "title": "[티조챗] \" 집값 폭락\" LH사장 경고에도…상하위 20% 격차는 290배 '최대'",
+        "domain": "news.tvchosun.com",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690166.html",
+        "mislead_score": 61,
+        "mislead_type": "조건맥락삭제",
+        "note": "전망과 자산격차 통계를 한 인과처럼 병치",
+        "unverified": false,
+        "X": "LH 사장이 집값 폭락을 경고했는데도 주택가격 상하위 20%의 격차가 290배로 더 벌어진 상황처럼 보인다.",
+        "Y": "기사는 공급 확대 뒤 집값이 떨어질 것이라는 LH 사장의 전망과 현재 주택 자산 격차 통계를 각각 소개하며 정부와 시장의 여러 진단을 함께 다룬다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "경제",
+        "title": "['클릭' 증시 ] 글로벌 빅 이벤트 앞둔 시장...긴장 속 숨고르기",
+        "domain": "00news.co.kr",
+        "url": "http://www.00news.co.kr/news/articleView.html?idxno=107470",
+        "mislead_score": 19,
+        "mislead_type": "범위축소",
+        "note": "큰 폭 하락을 완곡한 숨고르기로 축소",
+        "unverified": false,
+        "X": "대형 일정들을 앞둔 증시가 큰 방향 변화 없이 잠시 관망세를 보였다는 인상을 준다.",
+        "Y": "FOMC와 주요 기업 실적 발표를 앞두고 거래가 위축된 가운데 코스피는 1.46%, 코스닥은 3.26% 하락했고 외국인 매도세가 이어졌다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "경제",
+        "title": "[마감시황] 코스닥 3일째 하락, 오늘은 기관이 등 돌렸다",
+        "domain": "junggi.co.kr",
+        "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38240",
+        "mislead_score": 9,
+        "mislead_type": "기타",
+        "note": "코스닥 기관 순매도와 지수 하락을 정확히 요약",
+        "unverified": false,
+        "X": "기관 매도로 코스닥이 사흘 연속 하락했다는 장 마감 기사로 읽힌다.",
+        "Y": "코스닥은 기관 순매도 속에 3.26% 내린 727.21로 3거래일 연속 하락했고 코스피도 외국인 매도 영향으로 1.46% 떨어졌다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-10-26",
+        "section": "연예",
+        "title": "함소원, 진화와 이혼 4년 만→딸과 8평 원룸살이…\"룸메이트가 골라준 ...",
+        "domain": "tvreport.co.kr",
+        "url": "https://www.tvreport.co.kr/entertainment/article/1086050/",
+        "mislead_score": 76,
+        "mislead_type": "조건맥락삭제",
+        "note": "이혼 후 형편 악화처럼 보이지만 임시 거주",
+        "unverified": false,
+        "X": "함소원이 이혼 뒤 생활 형편이 어려워져 딸과 8평 원룸에서 살게 된 듯하다.",
+        "Y": "함소원은 원래 살던 집을 리모델링하는 동안 월세 지출을 아끼려고 딸과 작은 원룸에 임시로 머물며 학교 참관 수업 준비 모습을 공개했다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "연예",
+        "title": "누적 기부금액이 무려 '50억'이라는 연예 계 대표 톱스타 부부",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1169206",
+        "mislead_score": 49,
+        "mislead_type": "범위축소",
+        "note": "신민아·김우빈 이름을 숨겨 클릭을 유도",
+        "unverified": false,
+        "X": "이름을 밝히지 않은 유명 연예인 부부가 50억원을 기부했다는 새로운 사실을 공개하는 기사처럼 보인다.",
+        "Y": "신민아가 예능 예고 영상에서 남편 김우빈과 10년 넘게 이어온 기부에 관해 이야기했고 두 사람의 누적 기부액이 50억원을 넘는다고 소개한다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "연예",
+        "title": "드디어 시즌2 나온다…17.7% 시청률 찍고 주연 배우 확 바꿔 돌아오는 '...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1168512",
+        "mislead_score": 48,
+        "mislead_type": "범위축소",
+        "note": "작품명을 감추고 주연 전면 교체처럼 과장",
+        "unverified": false,
+        "X": "시청률 17.7%를 기록한 인기 드라마가 주연진을 모두 바꿔 시즌2로 돌아오는 듯하다.",
+        "Y": "굿파트너 시즌2는 장나라가 차은경 역을 이어가고 김혜윤이 새 변호사 강혜성으로 합류하며 11월 20일 첫 방송될 예정이다."
+      },
+      {
+        "date": "2026-10-26",
+        "section": "연예",
+        "title": "“ 방송 도 안 하는데…” 초호화 일상 공개한 75세 윤미라, '재테크' 질문...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1169154",
+        "mislead_score": 44,
+        "mislead_type": "조건맥락삭제",
+        "note": "방송 공백과 호화 생활을 의문스럽게 연결",
+        "unverified": false,
+        "X": "최근 방송 활동이 거의 없는 윤미라가 어떻게 초호화 생활을 유지하는지 수상한 재테크 비결을 밝힌 듯하다.",
+        "Y": "윤미라의 집과 일상을 소개한 방송을 계기로 과거 영상에서 가족 생계를 책임졌고 어머니가 오랫동안 금전 관리를 맡았다고 답한 내용이 다시 주목받았다."
+      }
+    ]
+  }
+}
