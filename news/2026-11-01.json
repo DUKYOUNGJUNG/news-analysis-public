@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-01",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-11-01",
+        "section": "사회",
+        "title": "[위클립] 10월 5주",
+        "domain": "laborplus.co.kr",
+        "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41740",
+        "mislead_score": 46,
+        "mislead_type": "범위축소",
+        "note": "주간 노동 현안 모음이라는 정보가 제목에 없다",
+        "unverified": false,
+        "X": "10월 마지막 주를 다룬 정체 불명의 짧은 영상이나 단일 코너로 보인다.",
+        "Y": "의료노조 임단협과 안전 대책, 초광역특구법 반대 등 10월 마지막 주의 여러 노동 현안을 묶어 정리한 주간 브리핑이다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "사회",
+        "title": "터널서 시속 171㎞ 음주운전 사망사고 … 항소심서 징역 3년→2년 6개월",
+        "domain": "chosun.com",
+        "url": "https://www.chosun.com/national/regional/2026/11/01/OVADV67MLBDZ5O3SEDCWVQDQAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "mislead_score": 4,
+        "mislead_type": "기타",
+        "note": "사고와 감형 결과를 제목에 구체적으로 제시",
+        "unverified": false,
+        "X": "시속 171㎞ 음주운전 사망사고를 낸 30대의 항소심 형량이 3년에서 2년 6개월로 줄었다는 사건이다.",
+        "Y": "창원지법 항소심은 거제 터널에서 음주 상태로 사망사고를 낸 30대에게 원심보다 6개월 줄어든 징역 2년 6개월과 벌금 100만원을 선고했다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-11-01",
+        "section": "정치",
+        "title": "3000원만 내면 경선 한 표… 1000만 당원 시대의 민낯",
+        "domain": "asiatoday.co.kr",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261102010000263",
+        "mislead_score": 42,
+        "mislead_type": "조건맥락삭제",
+        "note": "당비 외 가입기간 등 경선 요건을 제목서 생략",
+        "unverified": false,
+        "X": "누구나 3000원만 한 번 내면 곧바로 정당 경선에 참여할 수 있어 1000만 당원이 허수라는 주장으로 읽힌다.",
+        "Y": "거대 양당의 낮은 당비 요건과 선거 전 당원 급증 현상을 짚으며 당원 수가 실제 정치 참여 규모를 얼마나 반영하는지 문제를 제기한 기사다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "정치",
+        "title": "[이슈] 하루 10건 넘는 ' 대통령 SNS', '품격·만기친람' 논란 확산… 국민 ...",
+        "domain": "polinews.co.kr",
+        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747387",
+        "mislead_score": 34,
+        "mislead_type": "인용을사실처럼",
+        "note": "야권 평가를 보편적 논란처럼 전면 배치",
+        "unverified": false,
+        "X": "대통령이 하루 열 건 넘게 SNS에 글을 올리며 국정 전반을 직접 챙겨 대통령 품격과 의사결정 체계를 훼손했다는 평가가 확산된 것으로 보인다.",
+        "Y": "대통령의 잦은 SNS 발신이 정책 조율을 흐릴 수 있다는 야권의 비판과 전달상 오해를 우려한 여당의 반응을 함께 다룬 정치권 공방 기사다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "정치",
+        "title": "821조 예산정국 막 올라… 여야 ‘162조 미래기금’ 격돌 예고",
+        "domain": "segye.com",
+        "url": "https://www.segye.com/newsView/20261101509263?OutUrl=naver",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "예산 규모와 핵심 쟁점을 정확히 요약",
+        "unverified": false,
+        "X": "821조원 규모의 내년도 예산안 심사가 시작되며 여야가 162조원 미래대응기금 운용을 두고 맞붙는다는 내용이다.",
+        "Y": "정부의 820조9000억원 예산안 심사를 앞두고 민주당은 원안 사수를, 국민의힘은 재정 건전성과 대규모 삭감을 주장하며 미래대응기금을 핵심 쟁점으로 삼았다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "정치",
+        "title": "이 대통령 순방 외교 놓고 여야 충돌…‘혈세 낭비’ vs ‘국익 위한 외교’",
+        "domain": "kukinews.com",
+        "url": "https://www.kukinews.com/article/view/kuk202611010038",
+        "mislead_score": 6,
+        "mislead_type": "기타",
+        "note": "여야의 상반된 주장을 제목에 함께 제시",
+        "unverified": false,
+        "X": "대통령의 해외 순방 비용과 성과를 놓고 야당은 혈세 낭비라고 비판하고 여권은 국익을 위한 정상외교라고 반박했다는 내용이다.",
+        "Y": "국민의힘이 순방 횟수와 예산 대비 성과를 문제 삼자 대통령실과 정부, 민주당이 정상외교의 필요성과 성과를 들어 맞선 공방을 정리했다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-11-01",
+        "section": "경제",
+        "title": "중하위권 전 월세 폭등…노원구도 증가",
+        "domain": "kfenews.co.kr",
+        "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=667321",
+        "mislead_score": 36,
+        "mislead_type": "조건맥락삭제",
+        "note": "지역·기간·지표 없이 폭등으로 일반화",
+        "unverified": false,
+        "X": "서울 중하위권 지역의 전세와 월세가 전반적으로 폭등했고 노원구도 같은 흐름에 들어섰다는 인상을 준다.",
+        "Y": "서울 중위권 이하 아파트의 매매·전세·월세 지표가 함께 오르는 가운데 대출금리 부담으로 보증금 증액분을 월세로 돌리는 사례가 늘었다는 분석이다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "경제",
+        "title": "실적 부진에도 '낙폭 과대' 평가…BNK 금융 지주 저평가 매력 있을까",
+        "domain": "pinpointnews.co.kr",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500324",
+        "mislead_score": 23,
+        "mislead_type": "의문형단정회피",
+        "note": "투자 매력을 묻지만 위험 요인 비중이 크다",
+        "unverified": false,
+        "X": "BNK금융지주 주가가 실적에 비해 지나치게 떨어져 저가 매수 기회일 수 있다는 투자 판단을 제시하는 듯하다.",
+        "Y": "BNK금융지주의 주가 낙폭과 밸류에이션을 살피면서 순이자마진 하락, 대출 경쟁, 건전성 관리 등 저평가가 이어질 위험도 함께 검토한 분석이다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "경제",
+        "title": "은행권 가계대출 한달 만에 다시 증가…빚투·예금 동반 상승세",
+        "domain": "news1.kr",
+        "url": "https://www.news1.kr/finance/general-finance/6338134",
+        "mislead_score": 7,
+        "mislead_type": "기타",
+        "note": "대출·예금 증가 흐름을 제목과 본문이 일치",
+        "unverified": false,
+        "X": "은행 가계대출이 한 달 만에 증가세로 돌아섰고 주식 투자용 대출과 예금도 함께 늘었다는 내용이다.",
+        "Y": "5대 은행 가계대출이 한 달 새 2조2647억원 늘었고 주택담보·신용대출과 예·적금이 함께 증가한 가운데 연말 대출 여력도 1조원 넘게 남았다고 전했다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "경제",
+        "title": "서울 아파트 월세 9월까지 7.7% 상승…노원구 12.9%로 최고",
+        "domain": "sentv.co.kr",
+        "url": "https://www.sentv.co.kr/article/view/sentv202611010004",
+        "mislead_score": 4,
+        "mislead_type": "기타",
+        "note": "기간과 상승률, 최고 지역을 명확히 제시",
+        "unverified": false,
+        "X": "올해 1월부터 9월까지 서울 아파트 월세가 7.7% 올랐고 노원구 상승률이 12.9%로 가장 높았다는 통계 기사다.",
+        "Y": "한국부동산원 통계를 토대로 서울 아파트 월세 누적 상승률과 노원구의 두드러진 상승세를 전하고 전세대출 부담이 월세 전환을 부추긴다고 분석했다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-11-01",
+        "section": "연예",
+        "title": "“왜 안 하냐” 외침까지…결혼식서도 '키스' 안 했다는 유명 남자 가수",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1170839",
+        "mislead_score": 58,
+        "mislead_type": "범위축소",
+        "note": "강균성 이름과 결혼 맥락을 감춰 호기심 유도",
+        "unverified": false,
+        "X": "유명 남자 가수가 결혼식에서 신부와의 키스를 의도적으로 거부해 하객들이 재촉한 이례적 사건처럼 보인다.",
+        "Y": "강균성이 배우 유하진과 결혼한 뒤 방송에서 소식을 알렸고, 결혼식 중 키스 요구가 나왔지만 두 사람이 키스하지 않았다는 일화를 소개했다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "연예",
+        "title": "'치매 전단계' 전원주, 10분 전에 본 '70년 절친'도 기억 못했다...충격",
+        "domain": "insight.co.kr",
+        "url": "https://www.insight.co.kr/news/580082",
+        "mislead_score": 49,
+        "mislead_type": "조건맥락삭제",
+        "note": "경도인지장애를 치매에 가까운 상태로 과장",
+        "unverified": false,
+        "X": "치매 직전 상태인 전원주가 70년 지기 절친을 만난 지 10분 만에 알아보지 못할 정도로 기억력이 급격히 악화됐다는 인상을 준다.",
+        "Y": "경도인지장애 판정을 받은 전원주가 방송에서 오랜 친구를 바로 알아보지 못한 장면과 두 사람의 오랜 인연을 함께 소개한 기사다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "연예",
+        "title": "'오연수♥' 손지창, 연예계 떠나 뭐하나 했더니…연 매출 60억 CEO였다",
+        "domain": "mydaily.co.kr",
+        "url": "https://www.mydaily.co.kr/page/view/2026110114155346723",
+        "mislead_score": 44,
+        "mislead_type": "조건맥락삭제",
+        "note": "현재 매출 아닌 과거 최대 매출임을 생략",
+        "unverified": false,
+        "X": "배우 활동을 그만둔 손지창이 현재 해마다 60억원 매출을 올리는 기업의 대표로 성공했다는 뜻으로 읽힌다.",
+        "Y": "손지창이 26년째 이벤트 기획회사를 운영하며 가장 실적이 좋았을 때 연 매출이 약 60억원이었다고 방송에서 밝힌 내용을 전했다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "연예",
+        "title": "배우 등 회원 23만명 태국판 'N번방' 사건 터졌다…女 연예인 몰카·AI 합성",
+        "domain": "sportschosun.com",
+        "url": "https://www.sportschosun.com/entertainment/2026-11-01/202611010100005760000284",
+        "mislead_score": 31,
+        "mislead_type": "인용을사실처럼",
+        "note": "배우 참여 의혹을 확인된 사실처럼 강조",
+        "unverified": false,
+        "X": "태국 배우들이 포함된 23만명 규모의 조직이 여성 연예인 몰카와 AI 합성물을 공유하다 적발된 사건으로 읽힌다.",
+        "Y": "태국 대형 대화방에서 여성 연예인과 모델의 불법 촬영물·합성물이 유통됐다는 폭로와 연예계 남성 종사자 일부가 참여했을 가능성을 전한 기사다."
+      },
+      {
+        "date": "2026-11-01",
+        "section": "연예",
+        "title": "박하선, 손편지로 전한 '씨네타운' 작별…연기·무대에 집중 예고",
+        "domain": "topstarnews.net",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264966",
+        "mislead_score": 5,
+        "mislead_type": "기타",
+        "note": "하차 이유와 향후 계획을 제목에 충실히 반영",
+        "unverified": false,
+        "X": "박하선이 라디오 프로그램 씨네타운에서 하차하며 연기와 무대 활동에 집중하겠다고 손편지로 알렸다는 내용이다.",
+        "Y": "박하선은 예능과 연극, 드라마 촬영 등 일정이 겹쳐 생방송 진행이 어려워졌다며 씨네타운을 떠나 작품 활동에 집중하겠다고 밝혔다."
+      }
+    ]
+  }
+}
