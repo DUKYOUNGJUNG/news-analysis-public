@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-02",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-11-02",
+        "section": "사회",
+        "title": "터널서 171㎞ 만취 질주, 사망사고 낸 30대 女, 징역 2년6개월로 감형",
+        "domain": "biz.heraldcorp.com",
+        "url": "https://biz.heraldcorp.com/article/10922770?ref=naver",
+        "mislead_score": 58,
+        "mislead_type": "조건맥락삭제",
+        "note": "감형 사유를 빼 형량만 부각",
+        "unverified": false,
+        "X": "시속 171㎞ 음주 사망사고인데도 법원이 별다른 이유 없이 징역을 6개월 줄여준 것으로 보인다.",
+        "Y": "항소심은 위험운전치사 등 유죄를 인정하면서도 피고인의 사정과 양형 조건을 다시 판단해 징역 2년 6개월과 벌금을 선고했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "사회",
+        "title": "돈 없다는 경기도, '난민' 실태 조사 마쳤다...19명은 따로 심층 면접",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1171139",
+        "mislead_score": 44,
+        "mislead_type": "조건맥락삭제",
+        "note": "재정난과 난민조사를 인과처럼 연결",
+        "unverified": false,
+        "X": "경기도가 재정난 속에서도 난민 19명을 별도로 심층 조사하며 지원 확대에 나선 것으로 읽힌다.",
+        "Y": "경기도는 난민의 생계·주거·고용·의료 수요를 파악해 기존 기관 연계와 중앙정부 개선 과제를 검토할 기초자료를 마련했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "사회",
+        "title": "정부 내년 예산안 뜯어보니…1인 가구 연령대별 맞춤 지원 무게",
+        "domain": "1conomynews.co.kr",
+        "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51107",
+        "mislead_score": 28,
+        "mislead_type": "범위축소",
+        "note": "연령대별 사업 묶음을 한 정책처럼 압축",
+        "unverified": false,
+        "X": "정부가 내년부터 1인 가구 전체에 연령별로 통합된 새 지원제도를 시행하는 듯하다.",
+        "Y": "예산안에는 청년부터 고령층까지 기존 일자리·돌봄 사업의 대상과 인력을 늘리는 여러 항목이 나뉘어 담겼다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "사회",
+        "title": "광주환경공단, '감정 노동 직원 직무스트레스 예방'... 치유 지원",
+        "domain": "newsworker.co.kr",
+        "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=511804",
+        "mislead_score": 12,
+        "mislead_type": "기타",
+        "note": "행사 목적과 대상이 제목과 대체로 일치",
+        "unverified": false,
+        "X": "광주환경공단이 감정노동 직원의 스트레스를 줄이기 위한 치유 프로그램을 운영했다는 소식이다.",
+        "Y": "공단은 악성 민원과 현장 업무에 노출된 직원을 위해 정신건강 기관과 연계한 예방·회복 행사를 열었다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-11-02",
+        "section": "정치",
+        "title": "“내년 1월 마무리” 정청래 합당론 내놓자 “합당 말아먹은 장본인 아...",
+        "domain": "khan.co.kr",
+        "url": "https://www.khan.co.kr/article/202611021807001",
+        "mislead_score": 55,
+        "mislead_type": "인용을사실처럼",
+        "note": "비판적 반응을 합당 실패 사실처럼 제시",
+        "unverified": false,
+        "X": "정청래가 과거 합당을 망친 책임자인데도 내년 1월 합당을 밀어붙이려 한다는 사실이 확인된 듯하다.",
+        "Y": "정청래의 합당 구상에 당내 반감이 나오지만 총선까지 시간이 남아 동력이 약하고 지지율에 따라 논의가 달라질 수 있다는 전망이다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "정치",
+        "title": "이재명 ‘모두의 성장’ 821조 예산…162조 미래대응기금 놓고 여야 격돌",
+        "domain": "ilyo.co.kr",
+        "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513417",
+        "mislead_score": 38,
+        "mislead_type": "범위축소",
+        "note": "예산 전체보다 미래기금 충돌에 초점",
+        "unverified": false,
+        "X": "821조원 예산의 핵심이 162조원 미래대응기금이며 여야가 그 기금 자체를 두고 전면 충돌한 것으로 읽힌다.",
+        "Y": "대통령은 모두의 성장을 내세운 2027년 예산안을 설명했고 야당은 미래대응기금의 국회 통제 약화를 문제 삼았다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "정치",
+        "title": "'30번 박수'와 '침묵시위'로 갈린 李 시정연설[CBS뉴스룸]",
+        "domain": "nocutnews.co.kr",
+        "url": "https://www.nocutnews.co.kr/news/6600967?utm_source=naver&utm_medium=article&utm_campaign=20261102180813",
+        "mislead_score": 20,
+        "mislead_type": "기타",
+        "note": "박수와 침묵 대비가 실제 본회의 풍경과 일치",
+        "unverified": false,
+        "X": "대통령 시정연설에서 여당은 반복해 박수쳤고 야당은 침묵으로 항의해 국회 반응이 완전히 갈렸다는 뜻이다.",
+        "Y": "821조원 규모 예산안 협조를 요청한 연설에 민주당은 약 30차례 박수로 호응했고 국민의힘은 침묵 시위를 이어갔다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "정치",
+        "title": "\"불법 사금융과 분리된 '대부금융업법' 만들어야\"…허가제 전환엔 \"재설...",
+        "domain": "weekly.hankooki.com",
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191840",
+        "mislead_score": 12,
+        "mislead_type": "기타",
+        "note": "입법 제안과 허가제 논점을 함께 소개",
+        "unverified": false,
+        "X": "대부업을 불법 사금융과 분리한 별도 법률로 관리하자는 업계·정치권 논의가 본격화됐다는 의미다.",
+        "Y": "대부금융 업계와 여야 관계자, 전문가들은 별도 법률과 허가제 전환의 효과 및 재설계 필요성을 토론했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "정치",
+        "title": "사전 환담서 ‘미래대응기금’ 이견…장동혁 “ 국회 통제 안 받아”",
+        "domain": "news.kbs.co.kr",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701581&ref=A",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "비공개 환담의 쟁점을 그대로 전달",
+        "unverified": false,
+        "X": "시정연설 전 환담에서 장동혁 대표가 미래대응기금이 국회 통제를 벗어난다고 직접 문제를 제기했다는 내용이다.",
+        "Y": "비공개 사전 환담에서 장 대표가 기금 운용의 국회 통제 문제를 제기했고 대통령과 참석자들이 관련 의견을 나눴다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-11-02",
+        "section": "경제",
+        "title": "공공이 보증금 직접 관리하는 ‘안심신탁’... 세입자 안전망 될까",
+        "domain": "vop.co.kr",
+        "url": "https://vop.co.kr/A00001697425.html",
+        "mislead_score": 62,
+        "mislead_type": "의문형단정회피",
+        "note": "안전망 가능성을 띄우지만 비용·투자 위험 큼",
+        "unverified": false,
+        "X": "공공기관이 전세보증금을 직접 관리하는 안심신탁이 세입자 피해를 막을 유력한 해법으로 곧 도입될 듯하다.",
+        "Y": "안심신탁은 보증금 보호를 목표로 하지만 대출이자와 운영 구조, 개발투자에 따른 집값 부담 등 실익과 부작용이 함께 검토되고 있다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "경제",
+        "title": "전문가·중개사 10명 중 1~2명만 \"서울 집값 내년 안정\"[연말 부동산 전...",
+        "domain": "view.asiae.co.kr",
+        "url": "https://view.asiae.co.kr/article/2026110207545865222",
+        "mislead_score": 42,
+        "mislead_type": "범위축소",
+        "note": "소수 응답만 역산해 불안 전망을 강조",
+        "unverified": false,
+        "X": "부동산 전문가와 중개사 대부분이 내년에도 서울 집값이 안정되지 않을 것으로 확신한다는 인상을 준다.",
+        "Y": "설문에서는 응답자의 절반가량이 단기간 안정이 어렵다고 봤고 매매·임대차 시장의 불안 지속 가능성을 전망했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "경제",
+        "title": "규제 완화 '동아줄' 잡은 인터넷 은행 ···하반기 실적 '안도'",
+        "domain": "sisajournal-e.com",
+        "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424742",
+        "mislead_score": 35,
+        "mislead_type": "인용을사실처럼",
+        "note": "규제 완화를 실적 구명줄로 단정적으로 표현",
+        "unverified": false,
+        "X": "인터넷은행이 규제 완화 덕분에 하반기 실적 위기에서 벗어났다는 결론처럼 보인다.",
+        "Y": "인터넷은행들은 대출 규제 완화를 활용해 실적 방어 여지를 얻었지만 수신 경쟁에 따른 수익성 하락 위험도 남아 있다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "경제",
+        "title": "美 인텔 쇼크에도 코스피 선방…5800선 상승 마감",
+        "domain": "biz.sbs.co.kr",
+        "url": "https://biz.sbs.co.kr/article_hub/20000343724?division=NAVER",
+        "mislead_score": 18,
+        "mislead_type": "기타",
+        "note": "장중 반등과 마감 결과가 제목과 일치",
+        "unverified": false,
+        "X": "인텔 주가 급락 여파에도 코스피가 충격을 이겨내고 5800선에서 상승 마감했다는 소식이다.",
+        "Y": "코스피는 미국 기술주 약세로 하락 출발했지만 기관 매수에 반등해 상승 마감했고 원화는 약세를 보였다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "경제",
+        "title": "가계빚 한 달 만에 2.8조 반등⋯정기 예금 엔 24조 '밀물'",
+        "domain": "etoday.co.kr",
+        "url": "https://www.etoday.co.kr/news/view/2643111",
+        "mislead_score": 10,
+        "mislead_type": "기타",
+        "note": "대출·예금 증감 수치를 함께 전달",
+        "unverified": false,
+        "X": "가계대출이 한 달 만에 약 2조8천억원 늘고 정기예금에는 24조원이 유입됐다는 의미다.",
+        "Y": "5대 은행의 10월 가계대출은 다시 증가했고 금리 상승과 증시 변동 속 정기예금 유입도 크게 늘었다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-11-02",
+        "section": "연예",
+        "title": "'학폭 의혹' 차예련, 해명 요구 계속…소속사는 여전히 \"사실 무근\" [종...",
+        "domain": "enews.imbc.com",
+        "url": "http://enews.imbc.com/News/RetrieveNewsInfo/523252",
+        "mislead_score": 55,
+        "mislead_type": "인용을사실처럼",
+        "note": "의혹 제기와 부인을 함께 두고 혐의처럼 부각",
+        "unverified": false,
+        "X": "차예련의 학교폭력 의혹에 설득력 있는 추가 정황이 나왔지만 소속사가 답을 피하는 듯한 인상을 준다.",
+        "Y": "온라인 의혹 제기 이후 해명 요구가 이어지는 가운데 소속사는 사실무근이라는 기존 입장을 유지하고 추가 대응은 정하지 않았다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "연예",
+        "title": "갓세븐 박진영 붐 왔다… 드라마 대박+역주행 차트인[차트오피스]",
+        "domain": "newsen.com",
+        "url": "https://www.newsen.com/news_view.php?uid=202611021429010410",
+        "mislead_score": 35,
+        "mislead_type": "범위축소",
+        "note": "100위 진입을 전면적 붐처럼 확대",
+        "unverified": false,
+        "X": "박진영이 드라마 흥행과 음원 역주행을 동시에 이루며 대중문화 전반에서 큰 붐을 일으킨 듯하다.",
+        "Y": "박진영의 출연작이 주목받는 가운데 관련 음원이 멜론 톱100의 100위에 진입해 활동 상승세를 소개했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "연예",
+        "title": "[시선★피플] \"연기가 끝내줘요\"...'100일의 거짓말' '실낙원' 배우 김현...",
+        "domain": "sisunnews.co.kr",
+        "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248935",
+        "mislead_score": 12,
+        "mislead_type": "기타",
+        "note": "배우의 연기 경력과 최근 작품을 조명",
+        "unverified": false,
+        "X": "김현주가 최근 두 작품에서 뛰어난 연기로 다시 주목받고 있다는 배우 조명 기사로 읽힌다.",
+        "Y": "김현주의 데뷔 과정과 주요 작품, 최근의 묵직한 연기 변화를 돌아보며 배우로서의 경력을 소개한다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "연예",
+        "title": "박형식, 잔디 위 포근한 포즈…'각잡힌 사이' 앞두고 근황",
+        "domain": "topstarnews.net",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266313",
+        "mislead_score": 10,
+        "mislead_type": "기타",
+        "note": "근황 사진과 차기작 정보를 그대로 소개",
+        "unverified": false,
+        "X": "박형식이 잔디밭에서 찍은 사진으로 차기작 공개를 앞둔 근황을 전했다는 내용이다.",
+        "Y": "박형식의 최근 사진과 연기·예능 경력을 소개하고 차기작을 앞둔 활동 상황을 정리했다."
+      },
+      {
+        "date": "2026-11-02",
+        "section": "연예",
+        "title": "조인성·비, 뭉쳤다..소아희귀질환 후원 '만나 바자회' 참여",
+        "domain": "starnewskorea.com",
+        "url": "https://www.starnewskorea.com/star/2026/11/02/2026110210331980550",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "참여자와 후원 목적이 제목과 일치",
+        "unverified": false,
+        "X": "조인성과 비 등 연예인들이 소아희귀질환 치료비 마련 바자회에 참여한다는 소식이다.",
+        "Y": "여러 연예인이 7일 서울 성수동에서 열리는 치료비 후원 바자회에 물품과 참여로 힘을 보탠다."
+      }
+    ]
+  }
+}
