@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-10",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-11-10",
+        "section": "사회",
+        "title": "극우에 맞설 2027 프랑스의 선택은 라가르드? 멜랑숑?[장석준 칼럼]",
+        "domain": "pressian.com",
+        "url": "https://www.pressian.com/pages/articles/2026110917082776262?utm_source=naver&utm_medium=search",
+        "mislead_score": 31,
+        "mislead_type": "의문형단정회피",
+        "note": "양자 선택처럼 제시하지만 칼럼은 멜랑숑에 초점",
+        "unverified": false,
+        "X": "프랑스 대선에서 라가르드와 멜랑숑이 극우에 맞서는 비슷한 비중의 유력 선택지라는 인상을 준다.",
+        "Y": "칼럼은 르펜 우세 속 라가르드 대안론을 짚은 뒤 멜랑숑의 생태사회국가 공약과 정치적 가능성을 중심으로 평가한다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "사회",
+        "title": "돌봄부터 청년주거·태양광까지…사회적기업, 지역사회 '필수 인프라'로",
+        "domain": "eroun.net",
+        "url": "https://www.eroun.net/news/articleView.html?idxno=94980",
+        "mislead_score": 14,
+        "mislead_type": "인용을사실처럼",
+        "note": "포럼 사례와 정책 주장을 사실형 제목으로 표현",
+        "unverified": false,
+        "X": "사회적기업이 이미 여러 지역의 필수 생활 기반으로 정착했다는 의미로 읽힌다.",
+        "Y": "사회적기업 국제포럼에서 의료·돌봄·주거·에너지 분야의 국내외 사례를 공유하고 역할 확대와 지원 필요성을 논의했다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "사회",
+        "title": "[포항소식]현장 관리감독자 안전 보건 교육 등",
+        "domain": "newsis.com",
+        "url": "https://www.newsis.com/view/NISX20261110_0003862547",
+        "mislead_score": 10,
+        "mislead_type": "범위축소",
+        "note": "제목 밖에 우수공무원 선정 소식도 포함",
+        "unverified": false,
+        "X": "포항시 관리감독자 대상 안전보건 교육만 다룬 단신으로 보인다.",
+        "Y": "포항시가 관리감독자 150여 명에게 안전보건 교육을 실시한 소식과 민원 처리 우수 공무원 선정 소식을 함께 전한다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-11-10",
+        "section": "정치",
+        "title": "‘진상 규명’ 예고된 5건의 李 재판…3건은 공소취소 가능, 나머지는?",
+        "domain": "joongang.co.kr",
+        "url": "https://www.joongang.co.kr/article/25477401",
+        "mislead_score": 36,
+        "mislead_type": "조건맥락삭제",
+        "note": "법적 가능성과 실제 취소 전망을 혼동시킬 수 있음",
+        "unverified": false,
+        "X": "이재명 대통령 관련 재판 다섯 건 중 세 건의 공소취소가 구체적으로 추진되는 상황처럼 읽힌다.",
+        "Y": "법무부 장관 후보자 지명을 둘러싼 의구심을 배경으로 1심 중인 세 사건은 법률상 공소취소가 가능하고 상급심 두 사건은 다른 절차가 필요하다고 분석한다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "정치",
+        "title": "연금개혁특위도 '빈손'으로 끝나나",
+        "domain": "hankyung.com",
+        "url": "https://www.hankyung.com/article/2026111083901",
+        "mislead_score": 27,
+        "mislead_type": "의문형단정회피",
+        "note": "종료 결과가 아닌 교착 상태와 전망",
+        "unverified": false,
+        "X": "국회 연금개혁특위가 사실상 성과 없이 종료될 단계에 이른 것으로 보인다.",
+        "Y": "연말 활동 종료를 앞둔 연금특위가 기초연금 기준과 국민연금 구조개혁에서 여야 이견을 좁히지 못해 성과 도출이 어렵다는 전망을 전한다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-11-10",
+        "section": "경제",
+        "title": "[기획] \"갈아탈 곳도 없다\" 연말 만기 차주, 이자 부담 가중",
+        "domain": "m-i.kr",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=2016732",
+        "mislead_score": 20,
+        "mislead_type": "범위축소",
+        "note": "모든 차주가 아닌 신용대출 만기 차주 중심",
+        "unverified": false,
+        "X": "연말 만기를 맞는 대출자 대부분이 대환할 상품을 찾지 못해 이자 부담이 커지는 상황처럼 보인다.",
+        "Y": "신용대출 금리 상승과 은행권 한도·우대금리 축소로 연말 만기의 신용대출·마이너스통장 차주가 대환이나 연장 때 불리해질 가능성을 짚는다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "경제",
+        "title": "[2027 경제· 금융 전망] 금리 올라도... 금융 연구원 실장 \"순이자마진 상승폭 크지 않을 것\"",
+        "domain": "financialpost.co.kr",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285952",
+        "mislead_score": 11,
+        "mislead_type": "기타",
+        "note": "전문가 전망과 근거를 제목에 충실히 반영",
+        "unverified": false,
+        "X": "금리가 오르더라도 은행의 순이자마진 개선은 제한적일 것이라는 전문가 전망이다.",
+        "Y": "금융연구원 세미나에서는 기업대출 경쟁과 예금 조달비용, 취약차주 부실 위험 때문에 내년 은행 수익성과 건전성 개선이 제한될 것으로 전망했다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "경제",
+        "title": "급락 딛고 4거래일 만에 반등… 코스피 · 코스닥 4%대 급등",
+        "domain": "newsgn.com",
+        "url": "https://www.newsgn.com/news/articleView.html?idxno=584781",
+        "mislead_score": 8,
+        "mislead_type": "기타",
+        "note": "종가 수치와 반등 사실이 본문과 일치",
+        "unverified": false,
+        "X": "코스피와 코스닥이 사흘간의 하락 뒤 나란히 4% 넘게 올랐다는 뜻이다.",
+        "Y": "코스피는 4.39%, 코스닥은 4.48% 상승했고 외국인·기관 매수와 미국 기술주 강세가 반등을 이끌었지만 추가 변수에 대한 경계도 남았다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-11-10",
+        "section": "연예",
+        "title": "장나라·김혜윤 사이에 '피오'난 남자…무슨 사이길래? (굿파트너2)",
+        "domain": "atstar1.com",
+        "url": "http://www.atstar1.com/news/articleView.html?idxno=6040519",
+        "mislead_score": 63,
+        "mislead_type": "의문형단정회피",
+        "note": "배우들의 실제 삼각관계처럼 호기심 유도",
+        "unverified": false,
+        "X": "피오가 장나라와 김혜윤 사이에서 사적인 관계 갈등이나 삼각관계에 놓인 듯 보인다.",
+        "Y": "드라마 굿파트너2에서 피오가 연기하는 변호사가 기존 동료 장나라의 인물과 새 인물 김혜윤 사이를 중재하고 관계를 잇는 역할임을 소개한다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "연예",
+        "title": "'사망 사고' 박신영, 틱톡 라이브만? 드라마 출연에 ♥로제 향한 애정까...",
+        "domain": "xportsnews.com",
+        "url": "https://www.xportsnews.com/article/2217835",
+        "mislead_score": 59,
+        "mislead_type": "조건맥락삭제",
+        "note": "과거 사고와 로제를 근황 기사에 자극적으로 결합",
+        "unverified": false,
+        "X": "사망 사고 이후 박신영의 틱톡 방송과 드라마 활동, 로제와의 관계에 새로운 논란이 생긴 듯한 인상을 준다.",
+        "Y": "박신영의 틱톡 영상이 화제가 된 뒤 드라마 특별출연과 사업 활동, 로제에게 선물받은 과거 게시물을 묶어 최근 근황을 소개한다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "연예",
+        "title": "어쩐지 다르더라...’100일의 거짓말' 박진영 약혼녀, 가족 전체가 연예 ...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1173163",
+        "mislead_score": 48,
+        "mislead_type": "범위축소",
+        "note": "배우 이름 대신 극중 관계로 정체를 감춤",
+        "unverified": false,
+        "X": "박진영의 실제 약혼녀가 연예인 집안 출신이라는 사생활 기사로 오해하기 쉽다.",
+        "Y": "드라마에서 박진영의 약혼녀 역을 맡은 배우 박정연의 배역과 연기를 소개하고 아버지 박학기 등 가족 모두가 연예계 경력이 있다고 전한다."
+      },
+      {
+        "date": "2026-11-10",
+        "section": "연예",
+        "title": "'아이돌 출신' 女스타, 과거 성범죄 피해→30년 만에 또 협박…\"극심한...",
+        "domain": "mhnse.com",
+        "url": "https://mhnse.com/news/articleView.html?idxno=1691424",
+        "mislead_score": 30,
+        "mislead_type": "범위축소",
+        "note": "인물명과 협박 주체를 숨긴 익명형 제목",
+        "unverified": false,
+        "X": "신원이 드러나지 않은 여성 연예인이 과거 가해자에게 30년 뒤 다시 협박받은 사건처럼 읽힌다.",
+        "Y": "일본 방송인 혼다 리사가 과거 두 차례 범죄 피해를 겪은 뒤 최근 별개의 팬에게 위협성 언행을 받아 난청과 과호흡이 재발했다고 고백했다."
+      }
+    ]
+  }
+}
