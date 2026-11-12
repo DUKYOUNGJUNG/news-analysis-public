@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-12",
+  "rule": "verified only, event-deduped, sorted by mislead_score desc, 1-10 per section; no content/content_summary fields",
+  "items": {
+    "social": [
+      {
+        "date": "2026-11-12",
+        "section": "사회",
+        "title": "‘전작권 조기 환수’ 보도… 추가 국방비 등 경제적 파장도 냉철하게 ...",
+        "domain": "chosun.com",
+        "url": "https://www.chosun.com/special/ombusman/2026/11/11/JGKMGBEEABBATE5YWFC54CHOCY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "mislead_score": 48,
+        "mislead_type": "범위축소",
+        "note": "여러 보도평 중 전작권 항목만 제목화",
+        "unverified": false,
+        "X": "전작권 조기 환수 보도의 경제적 파장을 집중 검증한 해설로 보인다.",
+        "Y": "독자권익위원회가 전작권 보도를 포함해 복지·의료·교원 관련 여러 기사에 보완점을 제시한 회의 정리다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "사회",
+        "title": "[패트롤]경북도-경북도의회-경북 교육 청-경북연구원",
+        "domain": "ekn.kr",
+        "url": "https://www.ekn.kr/web/view.php?key=20261112021078737",
+        "mislead_score": 42,
+        "mislead_type": "조건맥락삭제",
+        "note": "기관 공동발표처럼 보이나 개별 소식 묶음",
+        "unverified": false,
+        "X": "경북의 네 기관이 함께 새 정책이나 협약을 발표한 기사처럼 읽힌다.",
+        "Y": "경북교육청 노사교섭과 도의회 행정감사 등 여러 기관의 개별 소식을 한 기사로 묶어 전한다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "사회",
+        "title": "[오늘의브랜드] GS리테일 ‘우리동네GS’, MAU 503만 명 돌파…20대 이용...",
+        "domain": "ibabynews.com",
+        "url": "https://www.ibabynews.com/news/articleView.html?idxno=156837",
+        "mislead_score": 38,
+        "mislead_type": "범위축소",
+        "note": "브랜드 묶음 기사에서 GS 사례만 전면화",
+        "unverified": false,
+        "X": "GS리테일 앱의 성장세와 20대 이용 특징을 집중 분석한 단독 기사로 보인다.",
+        "Y": "여러 기업의 사회공헌과 브랜드 동향을 묶은 기획물에서 GS리테일 앱 실적을 한 사례로 소개한다."
+      }
+    ],
+    "politics": [
+      {
+        "date": "2026-11-12",
+        "section": "정치",
+        "title": "\"참호 구축 다수 발견\"…금융지주 '셀프·장기 연임' 막는다",
+        "domain": "newsverse.kr",
+        "url": "https://www.newsverse.kr/news/articleView.html?idxno=11916",
+        "mislead_score": 65,
+        "mislead_type": "기타",
+        "note": "지배구조 은유를 실제 발견처럼 제시",
+        "unverified": false,
+        "X": "금융지주 주변에서 실제 참호가 여러 개 발견된 사건처럼 시작한다.",
+        "Y": "금융지주 회장의 셀프 추천과 장기 연임을 제한하려는 법안 및 지배구조 개편 논의다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "정치",
+        "title": "\"90도, 120도 숙여도 안 풀린다...정청래에게 혁신위원장 맡겨라\"[박영환...",
+        "domain": "ikbc.co.kr",
+        "url": "https://www.ikbc.co.kr/article/view/kbc202611120070",
+        "mislead_score": 55,
+        "mislead_type": "인용을사실처럼",
+        "note": "정치권 제안을 확정 해법처럼 부각",
+        "unverified": false,
+        "X": "정청래에게 혁신위원장을 맡기는 방안이 당내 갈등의 확정된 해법처럼 읽힌다.",
+        "Y": "민주당 내 갈등을 두고 원로들이 당사자 회동을 촉구하고 정청래 전 대표 기용안도 제시한 정치 해설이다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "정치",
+        "title": "31.5점을 100점으로 적은 선관위, 특검이 서버에 들어갔다",
+        "domain": "newscham.net",
+        "url": "https://newscham.net/130167/",
+        "mislead_score": 42,
+        "mislead_type": "조건맥락삭제",
+        "note": "오기와 서버 수사를 직접 조작처럼 연결",
+        "unverified": false,
+        "X": "선관위가 평가 점수를 의도적으로 조작했고 그 때문에 특검이 서버를 압수한 것으로 보인다.",
+        "Y": "감사 점수 오기 논란을 계기로 특검이 선관위 서버 자료 확보에 나선 상황과 그 배경을 다룬다."
+      }
+    ],
+    "economy": [
+      {
+        "date": "2026-11-12",
+        "section": "경제",
+        "title": "젠슨 황 해임설에 '출렁'… 코스피 5340선 후퇴",
+        "domain": "biz.sbs.co.kr",
+        "url": "https://biz.sbs.co.kr/article_hub/20000346084?division=NAVER",
+        "mislead_score": 52,
+        "mislead_type": "조건맥락삭제",
+        "note": "복합 증시 변동을 해임설 한 요인에 귀속",
+        "unverified": false,
+        "X": "젠슨 황 해임설 하나가 코스피 하락을 직접 일으킨 것으로 이해된다.",
+        "Y": "코스피는 반도체 약세와 차익 실현 등 여러 요인이 겹쳐 하락했고 기사에서는 해임설도 투자심리 변수로 다룬다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "경제",
+        "title": "집 안 사고 전세 로 버텼는데 “내년엔 집값 보다 더 뛸 수도”…전셋값...",
+        "domain": "sedaily.com",
+        "url": "https://www.sedaily.com/article/20113639?ref=naver",
+        "mislead_score": 35,
+        "mislead_type": "인용을사실처럼",
+        "note": "연구원 전망을 확정적 가격 급등처럼 표현",
+        "unverified": false,
+        "X": "내년 전셋값이 집값보다 반드시 더 크게 오를 것이 확정된 듯하다.",
+        "Y": "건산연은 공급 감소와 매수 제약을 근거로 2027년 전국 매매가 2%, 전셋값 4.5% 상승을 전망했다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "경제",
+        "title": "성동·강동 하락에도 서울 집값 92주 연속↑…“내년도 오른다”",
+        "domain": "edaily.co.kr",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=04555926645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "mislead_score": 22,
+        "mislead_type": "조건맥락삭제",
+        "note": "주간 지표와 내년 전망을 한 흐름처럼 연결",
+        "unverified": false,
+        "X": "일부 구 하락에도 서울 집값이 장기 상승 중이고 내년 상승도 확실하다는 인상을 준다.",
+        "Y": "이번 주 서울 평균은 상승했지만 성동·강동은 내렸으며, 별도 기관 전망은 내년 상승세 지속 가능성을 제시했다."
+      }
+    ],
+    "entertainment": [
+      {
+        "date": "2026-11-12",
+        "section": "연예",
+        "title": "“못 했던 이야기 풀겠다…” 수지 왕따설 휘말렸던 걸그룹 멤버, SNS에...",
+        "domain": "wikitree.co.kr",
+        "url": "https://www.wikitree.co.kr/articles/1174070",
+        "mislead_score": 70,
+        "mislead_type": "조건맥락삭제",
+        "note": "팬미팅 예고를 왕따설 폭로 암시로 전환",
+        "unverified": false,
+        "X": "미쓰에이 멤버가 수지 왕따설의 진상을 SNS에서 폭로하겠다는 뜻으로 읽힌다.",
+        "Y": "페이가 팬미팅을 예고하며 활동과 근황에 관한 못다 한 이야기를 전하겠다고 알린 소식이다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "연예",
+        "title": "김승우, 절도 피소에 ‘방역법 위반’ 의혹…5년 전 청담동에서 뭐했나",
+        "domain": "sportsseoul.com",
+        "url": "https://www.sportsseoul.com/news/read/1649462?ref=naver",
+        "mislead_score": 50,
+        "mislead_type": "조건맥락삭제",
+        "note": "별도 피소와 과거 방역 의혹을 연속 사건화",
+        "unverified": false,
+        "X": "김승우가 절도와 방역법 위반 두 혐의로 함께 수사받는 상황처럼 보인다.",
+        "Y": "드라마 투자자의 절도 고소를 전하면서 5년 전 촬영 뒤 모임이 당시 방역수칙을 어겼을 가능성도 별도로 제기한다."
+      },
+      {
+        "date": "2026-11-12",
+        "section": "연예",
+        "title": "타블로 딸은 능력, 이지혜 딸은 특혜?…\"금수저 위에 네포 베이비\" 시끌",
+        "domain": "mt.co.kr",
+        "url": "https://www.mt.co.kr/society/2026/11/12/2026111113504365975",
+        "mislead_score": 35,
+        "mislead_type": "범위축소",
+        "note": "연예인 2세 논의를 두 자녀 대결로 축소",
+        "unverified": false,
+        "X": "타블로와 이지혜의 딸이 같은 기회를 두고 능력과 특혜 평가를 직접 비교받는 사건처럼 보인다.",
+        "Y": "두 연예인 자녀에 대한 엇갈린 반응을 사례로 삼아 연예인 2세의 기회와 네포 베이비 논쟁을 살핀다."
+      }
+    ]
+  }
+}
